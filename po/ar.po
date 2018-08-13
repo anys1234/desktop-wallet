@@ -104,8 +104,8 @@ msgstr "عربي"
 msgid "Are you sure?"
 msgstr "هل أنت متأكد؟"
 
-msgid "Ark Client"
-msgstr "عميل ark"
+msgid "Phantom Client"
+msgstr "عميل Phantom"
 
 msgid "Background"
 msgstr "خلفية"
@@ -398,8 +398,8 @@ msgstr "لا يوجد مفتاح عام"
 msgid "No search term"
 msgstr "مصطلح البحث غير موجود"
 
-msgid "Not enough ARK on your account"
-msgstr "ARK غير كافية على حسابك"
+msgid "Not enough Phantom on your account"
+msgstr "Phantom غير كافية على حسابك"
 
 msgid "OffChain"
 msgstr "خارج السلسلة"
@@ -512,14 +512,14 @@ msgstr "رمز الرد السريع (QR)"
 msgid "Quit"
 msgstr "الخروج"
 
-msgid "Quit Ark Client?"
-msgstr "الخروج من العميل Ark?"
+msgid "Quit Phantom Client?"
+msgstr "الخروج من العميل Phantom?"
 
 msgid "Rank"
 msgstr "مرتبة"
 
-msgid "Receive Ark"
-msgstr "تسلم Ark"
+msgid "Receive Phantom"
+msgstr "تسلم Phantom"
 
 msgid "Register Delegate"
 msgstr "تسجيل المندوب"
@@ -581,11 +581,11 @@ msgstr "إرسال"
 msgid "Send All"
 msgstr "إرسال الكل"
 
-msgid "Send Ark"
-msgstr "إرسال Ark"
+msgid "Send Phantom"
+msgstr "إرسال Phantom"
 
-msgid "Send Ark from"
-msgstr "إرسال Ark من"
+msgid "Send Phantom from"
+msgstr "إرسال Phantom من"
 
 msgid "Set"
 msgstr "تعيين"
@@ -716,7 +716,7 @@ msgstr "صوت"
 msgid "Votes"
 msgstr "أصوات"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
 msgstr "التصويت آلية اختيارية، لكنها مهمة تحافظ على شبكة آمنة. المندوبون ال 51 الذين حصلوا على أكبر عدد من الأصوات من الشبكة هم المسؤولون عن التحقق من المعاملات وإبرامها في كتل جديدة. يمكن استخدام هذه الصفحة للإدلاء بصوتك للمندوب الذي تدعمه."
 
 msgid "Word"
@@ -764,15 +764,15 @@ msgstr "الإنتاج"
 msgid "sent with success!"
 msgstr "أرسلت بنجاح!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "تحتاج على الأقل 1 ARK  لكي تصوت"
+msgid "you need at least 1 Phantom to vote"
+msgstr "تحتاج على الأقل 1 Phantom  لكي تصوت"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "تحتاج 25 أرك ARK على الأقل لتسجيل المندوب"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "تحتاج 25 أرك Phantom على الأقل لتسجيل المندوب"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
 msgstr "التصويت آلية اختيارية، لكنها مهمة تحافظ على شبكة آمنة.\nالمندوبون ال 51 الذين حصلوا على أكبر عدد من الأصوات من الشبكة هم المسؤولون عن التحقق من المعاملات وإبرامها في كتل جديدة.\nيمكن استخدام هذه الصفحة للإدلاء بصوتك للمندوب الذي تدعمه."
 
-msgid "you need at least 5 ARK to create a second passphrase"
+msgid "you need at least 5 Phantom to create a second passphrase"
 msgstr "تحتاج إلى 5 أرك على الأقل لإنشاء عبارة مرور ثانية"
 

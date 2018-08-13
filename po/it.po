@@ -104,8 +104,8 @@ msgstr "Arabo"
 msgid "Are you sure?"
 msgstr "Sei sicuro?"
 
-msgid "Ark Client"
-msgstr "Ark Client"
+msgid "Phantom Client"
+msgstr "Phantom Client"
 
 msgid "Background"
 msgstr "Sfondo"
@@ -398,8 +398,8 @@ msgstr "Nessuna Chiave Pubblica"
 msgid "No search term"
 msgstr "Nessun termine per la ricerca"
 
-msgid "Not enough ARK on your account"
-msgstr "Non ci sono abbastanza ARK sul tuo account"
+msgid "Not enough Phantom on your account"
+msgstr "Non ci sono abbastanza Phantom sul tuo account"
 
 msgid "OffChain"
 msgstr "OffChain"
@@ -512,14 +512,14 @@ msgstr "Scanner QR"
 msgid "Quit"
 msgstr "Chiudi"
 
-msgid "Quit Ark Client?"
-msgstr "Sei sicuro di voler chiudere il client Ark?"
+msgid "Quit Phantom Client?"
+msgstr "Sei sicuro di voler chiudere il client Phantom?"
 
 msgid "Rank"
 msgstr "Posizione"
 
-msgid "Receive Ark"
-msgstr "Ricevi Ark"
+msgid "Receive Phantom"
+msgstr "Ricevi Phantom"
 
 msgid "Register Delegate"
 msgstr "Registra Delegato"
@@ -581,11 +581,11 @@ msgstr "Spedisci"
 msgid "Send All"
 msgstr "Invia tutto"
 
-msgid "Send Ark"
-msgstr "Spedisci Ark"
+msgid "Send Phantom"
+msgstr "Spedisci Phantom"
 
-msgid "Send Ark from"
-msgstr "Spedisci Ark da "
+msgid "Send Phantom from"
+msgstr "Spedisci Phantom da "
 
 msgid "Set"
 msgstr "Imposta"
@@ -716,8 +716,8 @@ msgstr "Vota"
 msgid "Votes"
 msgstr "Voti"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Votare è un meccanismo opzionale, ma importante per mantenere sicura la rete Ark. I 51 delegati con più voti dalla rete sono responsabili della verifica e della forgiatura di transazioni in nuovi blocchi. Questa pagina può essere usata per assegnare il tuo voto \nad un delegato che vuoi supportare."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Votare è un meccanismo opzionale, ma importante per mantenere sicura la rete Phantom. I 51 delegati con più voti dalla rete sono responsabili della verifica e della forgiatura di transazioni in nuovi blocchi. Questa pagina può essere usata per assegnare il tuo voto \nad un delegato che vuoi supportare."
 
 msgid "Word"
 msgstr "Parola"
@@ -764,15 +764,15 @@ msgstr "produttività"
 msgid "sent with success!"
 msgstr "inviato con successo!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "hai bisogno di almeno 1 ARK per votare"
+msgid "you need at least 1 Phantom to vote"
+msgstr "hai bisogno di almeno 1 Phantom per votare"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "hai bisogno di almeno 25 ARK per registrare un delegato"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "hai bisogno di almeno 25 Phantom per registrare un delegato"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Votare è un meccanismo opzionale, ma importante per mantenere sicura la rete Ark.\nI 51 delegati con più voti dalla rete sono responsabili della verifica e della forgiatura di transazioni in nuovi blocchi. \nQuesta pagina può essere usata per assegnare il tuo voto ad un delegato che vuoi supportare."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Votare è un meccanismo opzionale, ma importante per mantenere sicura la rete Phantom.\nI 51 delegati con più voti dalla rete sono responsabili della verifica e della forgiatura di transazioni in nuovi blocchi. \nQuesta pagina può essere usata per assegnare il tuo voto ad un delegato che vuoi supportare."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "Hai bisogno di almeno 5 ARK per creare una seconda passphrase"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "Hai bisogno di almeno 5 Phantom per creare una seconda passphrase"
 

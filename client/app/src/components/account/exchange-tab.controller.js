@@ -56,7 +56,7 @@
         }
       }
 
-      // Ark logo colour: #ED2A2D rgb(237,42,45)
+      // Phantom logo colour: #ED2A2D rgb(237,42,45)
       const colour = 'ED2A2D'
 
       this.changellySrc = $sce.trustAsResourceUrl(`https://changelly.com/widget/v1?auth=email&from=${from}&to=${to}&merchant_id=${merchantId}&address=${address}&amount=${amount}&ref_id=${refId}&color=${colour}`)

@@ -50,8 +50,8 @@ msgstr "Έγκριση"
 msgid "Are you sure?"
 msgstr "Είστε σίγουρος;"
 
-msgid "Ark Client"
-msgstr "Ark Client"
+msgid "Phantom Client"
+msgstr "Phantom Client"
 
 msgid "Balance"
 msgstr "Υπόλοιπο"
@@ -266,8 +266,8 @@ msgstr "Δεν υπάρχει publicKey"
 msgid "No search term"
 msgstr "Δεν υπάρχει ο όρος αναζήτησης"
 
-msgid "Not enough ARK on your account"
-msgstr "Δεν υπάρχουν αρκετά ARK στον λογαριασμό"
+msgid "Not enough Phantom on your account"
+msgstr "Δεν υπάρχουν αρκετά Phantom στον λογαριασμό"
 
 msgid "OffChain"
 msgstr "Εκτός αλυσίδας"
@@ -341,14 +341,14 @@ msgstr "Παραγωγικότητα"
 msgid "Quit"
 msgstr "Τερματισμός"
 
-msgid "Quit Ark Client?"
-msgstr "Τερματισμός του Ark Client ;"
+msgid "Quit Phantom Client?"
+msgstr "Τερματισμός του Phantom Client ;"
 
 msgid "Rank"
 msgstr "Κατάταξη"
 
-msgid "Receive Ark"
-msgstr "Παραλαβή ARK"
+msgid "Receive Phantom"
+msgstr "Παραλαβή Phantom"
 
 msgid "Register Delegate"
 msgstr "Κατοχύρωση Delegate"
@@ -377,11 +377,11 @@ msgstr "Δεύτερη Passphrase"
 msgid "Send"
 msgstr "Αποστολή"
 
-msgid "Send Ark"
-msgstr "Αποστολή Ark"
+msgid "Send Phantom"
+msgstr "Αποστολή Phantom"
 
-msgid "Send Ark from"
-msgstr "Αποστολή Ark από"
+msgid "Send Phantom from"
+msgstr "Αποστολή Phantom από"
 
 msgid "Set"
 msgstr "Ρύθμιση"
@@ -464,12 +464,12 @@ msgstr "παραχθέντα block"
 msgid "sent with success!"
 msgstr "Στάλθηκε με επιτυχία"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "Χρειάζεστε τουλάχιστον 1 ARK για να ψηφίσετε"
+msgid "you need at least 1 Phantom to vote"
+msgstr "Χρειάζεστε τουλάχιστον 1 Phantom για να ψηφίσετε"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "Χρειάζεστε τουλάχιστον 25 ARK για να κατοχυρώσετε έναν delegate"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "Χρειάζεστε τουλάχιστον 25 Phantom για να κατοχυρώσετε έναν delegate"
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "χρειάζεστε τουλάχιστον 5 ARK για να δημιουργήσετε μια δεύτερη φράση πρόσβασης"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "χρειάζεστε τουλάχιστον 5 Phantom για να δημιουργήσετε μια δεύτερη φράση πρόσβασης"
 

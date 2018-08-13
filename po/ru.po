@@ -101,8 +101,8 @@ msgstr "Араб"
 msgid "Are you sure?"
 msgstr "Вы уверены?"
 
-msgid "Ark Client"
-msgstr "Клиент Ark"
+msgid "Phantom Client"
+msgstr "Клиент Phantom"
 
 msgid "Background"
 msgstr "Фон"
@@ -401,8 +401,8 @@ msgstr "Нет отличий от оригинального списка де�
 msgid "No publicKey"
 msgstr "Отсутствует Публичный ключ"
 
-msgid "Not enough ARK on your account"
-msgstr "Не хватает ARK на вашем счету"
+msgid "Not enough Phantom on your account"
+msgstr "Не хватает Phantom на вашем счету"
 
 msgid "Open Delegate Monitor"
 msgstr "Открыть монитор делегатов"
@@ -491,11 +491,11 @@ msgstr "Сканер QR кодов"
 msgid "Quit"
 msgstr "Выход"
 
-msgid "Quit Ark Client?"
-msgstr "Завершить клиент Ark?"
+msgid "Quit Phantom Client?"
+msgstr "Завершить клиент Phantom?"
 
-msgid "Receive Ark"
-msgstr "Получить Ark"
+msgid "Receive Phantom"
+msgstr "Получить Phantom"
 
 msgid "Register Delegate"
 msgstr "Зарегистрировать делегата"
@@ -548,11 +548,11 @@ msgstr "Дополнительный пароль"
 msgid "Send"
 msgstr "Отправить"
 
-msgid "Send Ark"
-msgstr "Отправить Ark"
+msgid "Send Phantom"
+msgstr "Отправить Phantom"
 
-msgid "Send Ark from"
-msgstr "Отправить Ark из"
+msgid "Send Phantom from"
+msgstr "Отправить Phantom из"
 
 msgid "Set"
 msgstr "Установить"
@@ -659,7 +659,7 @@ msgstr "Голос"
 msgid "Votes"
 msgstr "Голоса"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
 msgstr "Голосование это необязательный, но важный механизм, поддерживающий безопасность\nсети Арк. Делегаты, в количестве 51, набравшие максимум голосов сети отвечают за верификацию и сборку транзакций в новые блоки. На этой странице вы можете отдать голос за делегата, которого вы поддерживаете."
 
 msgid "Word"
@@ -701,12 +701,12 @@ msgstr "производительность"
 msgid "sent with success!"
 msgstr "отправлено успешно!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "Для голосования необходимо иметь хотя бы 1ARK"
+msgid "you need at least 1 Phantom to vote"
+msgstr "Для голосования необходимо иметь хотя бы 1Phantom"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "вам нужно как минимум 25 ARK для регистрации делегата"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "вам нужно как минимум 25 Phantom для регистрации делегата"
 
-msgid "you need at least 5 ARK to create a second passphrase"
+msgid "you need at least 5 Phantom to create a second passphrase"
 msgstr "необходимо иметь минимум 5 Арк, чтобы создать вторую кодовую фразу"
 

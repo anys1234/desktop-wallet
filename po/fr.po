@@ -75,7 +75,7 @@ msgid "Address version"
 msgstr "Version d'adresse"
 
 msgid "After creating the second passphrase if you are having issues with forms (second passphrase field not showing up) please restart your client."
-msgstr "Merci de redémarrer le client ARK, si, après avoir créé une seconde phrase secrète, le champ de saisie de cette seconde phrase secrète n'apparait pas."
+msgstr "Merci de redémarrer le client Phantom, si, après avoir créé une seconde phrase secrète, le champ de saisie de cette seconde phrase secrète n'apparait pas."
 
 msgid "All your data, including created accounts, networks and contacts will be removed from the app and reset to default."
 msgstr "Toutes vos données, y compris les comptes créés, les réseaux et les contacts seront supprimés de l'application et réinitialisés à la valeur par défaut."
@@ -110,8 +110,8 @@ msgstr "Arabe"
 msgid "Are you sure?"
 msgstr "Êtes-vous sûr ?"
 
-msgid "Ark Client"
-msgstr "Client Ark"
+msgid "Phantom Client"
+msgstr "Client Phantom"
 
 msgid "Background"
 msgstr "Fond"
@@ -458,8 +458,8 @@ msgstr "Pas de clef publique"
 msgid "No search term"
 msgstr "Aucun terme de recherche"
 
-msgid "Not enough ARK on your account"
-msgstr "Pas assez d'ARK sur votre compte"
+msgid "Not enough Phantom on your account"
+msgstr "Pas assez d'Phantom sur votre compte"
 
 msgid "OffChain"
 msgstr "Hors-ligne"
@@ -497,8 +497,8 @@ msgstr "Mot de Passe"
 msgid "Passphrase does not match your address"
 msgstr "Le mot de passe ne correspond pas à votre adresse"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Votre phrase secrète est <strong>sensible à la casse</strong>, chaque changement de caractère entraînera l'importation d'une autre adresse Ark ! Les mots de passe ne sont <strong>pas enregistrés</strong> sur cet ordinateur, assurez-vous de toujours les <strong>sauvegarder en toute sécurité !</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Votre phrase secrète est <strong>sensible à la casse</strong>, chaque changement de caractère entraînera l'importation d'une autre adresse Phantom ! Les mots de passe ne sont <strong>pas enregistrés</strong> sur cet ordinateur, assurez-vous de toujours les <strong>sauvegarder en toute sécurité !</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Le mot de passe ne correspond pas au compte"
@@ -546,16 +546,16 @@ msgid "Please enter this account passphrase to login."
 msgstr "Entrer la phrase secrète de ce compte pour vous connecter"
 
 msgid "Please backup securely the second passphrase, this client does NOT store it and thus cannot recover your it"
-msgstr "Merci de sauvegarder votre deuxième phrase secrète car le client ARK NE l'enregistre PAS. Si vous ne la notez pas, elle ne pourra pas être récupérée."
+msgstr "Merci de sauvegarder votre deuxième phrase secrète car le client Phantom NE l'enregistre PAS. Si vous ne la notez pas, elle ne pourra pas être récupérée."
 
 msgid "Please paste the original and second passphrase to validate the creation."
 msgstr "Collez votre phrase secrète originale et la seconde phrase secrète pour valider la création."
 
 msgid "Please backup securely the second passphrase, this client does NOT store it and thus cannot recover your it."
-msgstr "Merci de sauvegarder votre deuxième phrase secrète car le client ARK NE l'enregistre PAS. Si vous ne la notez pas, elle ne pourra pas être récupérée."
+msgstr "Merci de sauvegarder votre deuxième phrase secrète car le client Phantom NE l'enregistre PAS. Si vous ne la notez pas, elle ne pourra pas être récupérée."
 
 msgid "Please restart your client after the delegate registration has been put in a block to reflect the changes."
-msgstr "Redémarrez le client ARK après vous être enregistré en tant que délégué"
+msgstr "Redémarrez le client Phantom après vous être enregistré en tant que délégué"
 
 msgid "Please first BACKUP SECURELY THE PASSPHRASE, this client does NOT store it and thus cannot recover your passphrase"
 msgstr "Veuillez d'abord SAUVEGARDER SÉCURITAIREMENT LA PHRASE SECRÈTE, ce client ne la stocke PAS et ne vous permet pas de la récupérer"
@@ -590,14 +590,14 @@ msgstr "QR Scanner"
 msgid "Quit"
 msgstr "Quitter"
 
-msgid "Quit Ark Client?"
-msgstr "Quitter le Client Ark ?"
+msgid "Quit Phantom Client?"
+msgstr "Quitter le Client Phantom ?"
 
 msgid "Rank"
 msgstr "Rang"
 
-msgid "Receive Ark"
-msgstr "Recevoir des ARK"
+msgid "Receive Phantom"
+msgstr "Recevoir des Phantom"
 
 msgid "Refresh Account"
 msgstr "Actualiser le compte"
@@ -674,14 +674,14 @@ msgstr "Envoyer"
 msgid "Send All"
 msgstr "Tout envoyer"
 
-msgid "Send Ark"
-msgstr "Envoyer des Ark"
+msgid "Send Phantom"
+msgstr "Envoyer des Phantom"
 
 msgid "Serbian"
 msgstr "Serbe"
 
-msgid "Send Ark from"
-msgstr "Envoyer des Ark depuis"
+msgid "Send Phantom from"
+msgstr "Envoyer des Phantom depuis"
 
 msgid "Set"
 msgstr "Créer"
@@ -714,7 +714,7 @@ msgid "Slovenian"
 msgstr "Slovénien"
 
 msgid "Smartbridge"
-msgstr "Passerelle vers ark"
+msgstr "Passerelle vers Phantom"
 
 msgid "So the block timestamp that will include this transaction will be a proof of existence of the file you have timestamped."
 msgstr "Donc l'horodatage des blocs qui contiendra cette transaction sera une preuve de l'existence du fichier que vous aurez horodaté."
@@ -833,8 +833,8 @@ msgstr "Vote"
 msgid "Votes"
 msgstr "Votes"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Le vote est facultatif mais important, il permet de sécuriser le réseau Ark. Les 51 délégués ayant le plus de votes du réseau sont chargés de vérifier et de forger les transactions dans les nouveaux blocs. Cette page peut être utilisée pour voter pour un délégué que vous soutenez."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Le vote est facultatif mais important, il permet de sécuriser le réseau Phantom. Les 51 délégués ayant le plus de votes du réseau sont chargés de vérifier et de forger les transactions dans les nouveaux blocs. Cette page peut être utilisée pour voter pour un délégué que vous soutenez."
 
 msgid "Word"
 msgstr "Mot"
@@ -881,15 +881,15 @@ msgstr "Productivité"
 msgid "sent with success!"
 msgstr "envoyé avec succès !"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "vous avez besoin d'au moins 1 ARK pour pouvoir voter"
+msgid "you need at least 1 Phantom to vote"
+msgstr "vous avez besoin d'au moins 1 Phantom pour pouvoir voter"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "vous devez avoir au moins 25 ARK pour devenir délégué"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "vous devez avoir au moins 25 Phantom pour devenir délégué"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Voter n'est pas obligatoire, il permet cependant de sécuriser le fonctionnement de la crypto-monnaie Ark.\nLes 51 délégués avec le plus de votes ont pour objectif de vérifier et forger les transactions dans les blocs. \nCette page permet de voter pour un délégué de votre choix."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Voter n'est pas obligatoire, il permet cependant de sécuriser le fonctionnement de la crypto-monnaie Phantom.\nLes 51 délégués avec le plus de votes ont pour objectif de vérifier et forger les transactions dans les blocs. \nCette page permet de voter pour un délégué de votre choix."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "5 ARK sont nécessaires pour pouvoir créer une deuxième phrase secrète"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "5 Phantom sont nécessaires pour pouvoir créer une deuxième phrase secrète"
 

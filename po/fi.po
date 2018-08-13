@@ -110,8 +110,8 @@ msgstr "Arabia"
 msgid "Are you sure?"
 msgstr "Oletko varma?"
 
-msgid "Ark Client"
-msgstr "Ark Asiakasohjelma"
+msgid "Phantom Client"
+msgstr "Phantom Asiakasohjelma"
 
 msgid "Background"
 msgstr "Tausta"
@@ -458,8 +458,8 @@ msgstr "Ei julkistaAvainta"
 msgid "No search term"
 msgstr "Ei hakusanaa"
 
-msgid "Not enough ARK on your account"
-msgstr "Tililläsi ei ole tarpeeksi ARK'ia"
+msgid "Not enough Phantom on your account"
+msgstr "Tililläsi ei ole tarpeeksi Phantom'ia"
 
 msgid "OffChain"
 msgstr "OffChain"
@@ -497,8 +497,8 @@ msgstr "Tunnuslause"
 msgid "Passphrase does not match your address"
 msgstr "Tunnuslause ei vastaa sinun osoitetta"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Tunnuslause on <strong>	merkkikokoriippuvainen </strong>, jokainen merkin muutos johtaa eri Ark-osoitteen! Tunnuslauseita <strong> ei tallenneta </strong> tälle tietokoneelle, joten varmista, että olet <strong> varmuuskopioinut tunnuslauseesi! </strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Tunnuslause on <strong>	merkkikokoriippuvainen </strong>, jokainen merkin muutos johtaa eri Phantom-osoitteen! Tunnuslauseita <strong> ei tallenneta </strong> tälle tietokoneelle, joten varmista, että olet <strong> varmuuskopioinut tunnuslauseesi! </strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Tunnuslause ei vastaa tiliä"
@@ -558,7 +558,7 @@ msgid "Please restart your client after the delegate registration has been put i
 msgstr "Muutosten voimaanastumista varten ole hyvä ja uudelleenkäynnistä ohjelmisto kun edustajaksi rekisteröintisi on kirjattu lohkoon."
 
 msgid "Please first BACKUP SECURELY THE PASSPHRASE, this client does NOT store it and thus cannot recover your passphrase"
-msgstr "Ole hyvä ja TEE TUNNUSLAUSEESTASI USEAMPI VARMUUSKOPIO ja SÄILYTÄ NIITÄ ERILLÄÄN TURVALLISISSA PAIKOISSA. Tämä ohjelma EI TALLENNA tunnuslausettasi. Hukkunutta tunnuslausetta EI VOIDA PALAUTTAA ARK'in toimesta."
+msgstr "Ole hyvä ja TEE TUNNUSLAUSEESTASI USEAMPI VARMUUSKOPIO ja SÄILYTÄ NIITÄ ERILLÄÄN TURVALLISISSA PAIKOISSA. Tämä ohjelma EI TALLENNA tunnuslausettasi. Hukkunutta tunnuslausetta EI VOIDA PALAUTTAA Phantom'in toimesta."
 
 msgid "Please type word 3, 6 and 9 from your passphrase to validate the account creation."
 msgstr "Ole hyvä ja kirjoita tunnuslauseesi sanat 3, 6 ja 9 vahvistaaksesi tilisi luonnin."
@@ -590,14 +590,14 @@ msgstr "QR Skanneri"
 msgid "Quit"
 msgstr "Poistu"
 
-msgid "Quit Ark Client?"
-msgstr "Sulje Ark Pääteohjelma?"
+msgid "Quit Phantom Client?"
+msgstr "Sulje Phantom Pääteohjelma?"
 
 msgid "Rank"
 msgstr "Asema"
 
-msgid "Receive Ark"
-msgstr "Vastaanota Ark'ia"
+msgid "Receive Phantom"
+msgstr "Vastaanota Phantom'ia"
 
 msgid "Refresh Account"
 msgstr "Päivitä Tili"
@@ -674,14 +674,14 @@ msgstr "Lähetä"
 msgid "Send All"
 msgstr "Lähetä Kaikki"
 
-msgid "Send Ark"
-msgstr "Lähetä Ark'ia"
+msgid "Send Phantom"
+msgstr "Lähetä Phantom'ia"
 
 msgid "Serbian"
 msgstr "Serbia"
 
-msgid "Send Ark from"
-msgstr "Lähetä Ark'ia ..."
+msgid "Send Phantom from"
+msgstr "Lähetä Phantom'ia ..."
 
 msgid "Set"
 msgstr "Määritä"
@@ -833,8 +833,8 @@ msgstr "Äännestä"
 msgid "Votes"
 msgstr "Äänet"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Äänestäminen on valinnainen mutta tärkeä mekanismi, joka pitää Ark-verkon turvattuna. Verkoston 51 eniten ääniä saanutta edustajaa (delegaattia) ovat vastuussa tilitapahtumien tarkastamisesta sekä tapahtumien tallentamisesta uusiin lohkoihin. Tällä sivulla voit antaa äänesi tukemalle edustajallesi."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Äänestäminen on valinnainen mutta tärkeä mekanismi, joka pitää Phantom-verkon turvattuna. Verkoston 51 eniten ääniä saanutta edustajaa (delegaattia) ovat vastuussa tilitapahtumien tarkastamisesta sekä tapahtumien tallentamisesta uusiin lohkoihin. Tällä sivulla voit antaa äänesi tukemalle edustajallesi."
 
 msgid "Word"
 msgstr "Sana"
@@ -881,15 +881,15 @@ msgstr "tuottavuus"
 msgid "sent with success!"
 msgstr "lähetetty onnistuneesti!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "tarvitset vähintään 1.0 ARK'ia äänestääksesi"
+msgid "you need at least 1 Phantom to vote"
+msgstr "tarvitset vähintään 1.0 Phantom'ia äänestääksesi"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "tarvitset vähintään 25 ARK'ia rekisteröityäksesi edustajaksi"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "tarvitset vähintään 25 Phantom'ia rekisteröityäksesi edustajaksi"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Äänestäminen on valinnainen mutta tärkeä mekanismi, joka pitää Ark-verkon turvattuna.\nVerkoston 51 eniten ääniä saanutta edustajaa (delegaattia) ovat vastuussa tilitapahtumien tarkastamisesta sekä tapahtumien tallentamisesta uusiin lohkoihin.\nTällä sivulla voit antaa äänesi tukemalle edustajallesi."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Äänestäminen on valinnainen mutta tärkeä mekanismi, joka pitää Phantom-verkon turvattuna.\nVerkoston 51 eniten ääniä saanutta edustajaa (delegaattia) ovat vastuussa tilitapahtumien tarkastamisesta sekä tapahtumien tallentamisesta uusiin lohkoihin.\nTällä sivulla voit antaa äänesi tukemalle edustajallesi."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "tarvitset vähintään 5 ARK'ia luodaksesi toisen tunnuslauseen"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "tarvitset vähintään 5 Phantom'ia luodaksesi toisen tunnuslauseen"
 

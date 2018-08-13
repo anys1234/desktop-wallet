@@ -110,7 +110,7 @@ msgstr "عرب"
 msgid "Are you sure?"
 msgstr "آیا مطمئنید؟"
 
-msgid "Ark Client"
+msgid "Phantom Client"
 msgstr "کلاینت آرک"
 
 msgid "Background"
@@ -458,7 +458,7 @@ msgstr "فاقد کلید عمومی"
 msgid "No search term"
 msgstr "بدون عبارت جستحو"
 
-msgid "Not enough ARK on your account"
+msgid "Not enough Phantom on your account"
 msgstr "آرک کافی در حساب شما وجود ندارد"
 
 msgid "OffChain"
@@ -497,7 +497,7 @@ msgstr "رمز عبور"
 msgid "Passphrase does not match your address"
 msgstr "رمز عبور با آدرس شما همخوانی ندارد"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
 msgstr "رمز عبور <strong> به بزرگ و کوچک بودن حروف حساس است </strong> ، هر تغییری در کاراکتر ها منجر به درون ریزی حساب متفاوتی خواهد شد! رمز های عبور <strong> ذخیره نمیشوند </strong> پس مطئن شوید که آنها را در جای مناسبی پشتیبان گیری کرده اید."
 
 msgid "Passphrase is not corresponding to account"
@@ -590,13 +590,13 @@ msgstr "اسکنر QR Code"
 msgid "Quit"
 msgstr "خروج"
 
-msgid "Quit Ark Client?"
+msgid "Quit Phantom Client?"
 msgstr "از برنامه خارج میشوید؟"
 
 msgid "Rank"
 msgstr "رتبه"
 
-msgid "Receive Ark"
+msgid "Receive Phantom"
 msgstr "دریافت آرک"
 
 msgid "Refresh Account"
@@ -674,13 +674,13 @@ msgstr "ارسال"
 msgid "Send All"
 msgstr "ارسال همه"
 
-msgid "Send Ark"
+msgid "Send Phantom"
 msgstr "ارسال آرک"
 
 msgid "Serbian"
 msgstr "صربستانی"
 
-msgid "Send Ark from"
+msgid "Send Phantom from"
 msgstr "ارسال آرک از"
 
 msgid "Set"
@@ -833,7 +833,7 @@ msgstr "رای"
 msgid "Votes"
 msgstr "رای ها"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
 msgstr "رای دادن کاملا اختیاری است، ولی مکانیزم اصلی ای است که شبکه آرک را ایمن نگه میدارد. 51 نماینده با اکثریت آرا از شبکه مسئول تایید و فورژ کردن تراکنش ها درون بلاک ها هستند. این صفحه میتواند رای شما را برای \n نماینده ای گه از آن حمایت میکنید ثبت کند."
 
 msgid "Word"
@@ -881,15 +881,15 @@ msgstr "بهره وری"
 msgid "sent with success!"
 msgstr "با موفقیت ارسال شد!"
 
-msgid "you need at least 1 ARK to vote"
+msgid "you need at least 1 Phantom to vote"
 msgstr "شما برای رای داد حداقل به 1 آرک احتیاج دارید"
 
-msgid "you need at least 25 ARK to register delegate"
+msgid "you need at least 25 Phantom to register delegate"
 msgstr "شما برای ثبت نام نمایندگی به حداقل 25 آرک احتیاج دارید"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
 msgstr "رای دادن کاملا اختیاری است، ولی مکانیزم اصلی ای است که شبکه آرک را ایمن نگه میدارد. \n 51 نماینده با اکثریت آرا از شبکه مسئول تایید و فورژ کردن تراکنش ها درون بلاک ها هستند.\n این صفحه میتواند رای شما را به نماینده ای که از آن حمایت میکنید ثبت کند"
 
-msgid "you need at least 5 ARK to create a second passphrase"
+msgid "you need at least 5 Phantom to create a second passphrase"
 msgstr "شما برای ایجاد رمز عبور دوم به حداقل 5 آرک احتیاج دارید"
 

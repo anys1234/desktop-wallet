@@ -110,8 +110,8 @@ msgstr "Árabe"
 msgid "Are you sure?"
 msgstr "Tens a certeza?"
 
-msgid "Ark Client"
-msgstr "Cliente Ark"
+msgid "Phantom Client"
+msgstr "Cliente Phantom"
 
 msgid "Background"
 msgstr "Fundo"
@@ -458,8 +458,8 @@ msgstr "Sem chave pública"
 msgid "No search term"
 msgstr "Sem termo de pesquisa"
 
-msgid "Not enough ARK on your account"
-msgstr "Não existe ARK suficiente na tua conta"
+msgid "Not enough Phantom on your account"
+msgstr "Não existe Phantom suficiente na tua conta"
 
 msgid "OffChain"
 msgstr "Fora da Cadeia"
@@ -497,8 +497,8 @@ msgstr "Frase-chave"
 msgid "Passphrase does not match your address"
 msgstr "A frase-chave não corresponde com o teu endereço"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "A frase-chave é <strong>sensível às maiúsculas</strong>, cada carácter errado irá resultar em um endereço Ark diferente! As frase-chave <strong>não são gravadas</strong> neste computador pelo que tens de garantir que as tens <strong>registadas de forma segura!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "A frase-chave é <strong>sensível às maiúsculas</strong>, cada carácter errado irá resultar em um endereço Phantom diferente! As frase-chave <strong>não são gravadas</strong> neste computador pelo que tens de garantir que as tens <strong>registadas de forma segura!</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "A frase-chave não corresponde com a conta"
@@ -590,14 +590,14 @@ msgstr "Leitor QR"
 msgid "Quit"
 msgstr "Saír"
 
-msgid "Quit Ark Client?"
-msgstr "Sair do cliente Ark?"
+msgid "Quit Phantom Client?"
+msgstr "Sair do cliente Phantom?"
 
 msgid "Rank"
 msgstr "Posição"
 
-msgid "Receive Ark"
-msgstr "Receber Ark"
+msgid "Receive Phantom"
+msgstr "Receber Phantom"
 
 msgid "Refresh Account"
 msgstr "Refrescar Conta"
@@ -674,14 +674,14 @@ msgstr "Enviar"
 msgid "Send All"
 msgstr "Enviar a Totalidade"
 
-msgid "Send Ark"
-msgstr "Enviar Ark"
+msgid "Send Phantom"
+msgstr "Enviar Phantom"
 
 msgid "Serbian"
 msgstr "Sérvio"
 
-msgid "Send Ark from"
-msgstr "Enviar Ark de"
+msgid "Send Phantom from"
+msgstr "Enviar Phantom de"
 
 msgid "Set"
 msgstr "Definir"
@@ -833,8 +833,8 @@ msgstr "Votar"
 msgid "Votes"
 msgstr "Votos"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Votar, embora opcional, é um importante mecanismo que contribui para a manutenção da segurança da rede Ark. Os 51 delegados com mais votos na rede ficam responsáveis por verificar e forjar transações em novos blocos. Esta página pode ser usada para exerceres o teu voto\nno delegado que apoias."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Votar, embora opcional, é um importante mecanismo que contribui para a manutenção da segurança da rede Phantom. Os 51 delegados com mais votos na rede ficam responsáveis por verificar e forjar transações em novos blocos. Esta página pode ser usada para exerceres o teu voto\nno delegado que apoias."
 
 msgid "Word"
 msgstr "Palavra"
@@ -881,15 +881,15 @@ msgstr "produtividade"
 msgid "sent with success!"
 msgstr "enviado com sucesso!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "precisas de, pelo menos, 1 ARK para votar"
+msgid "you need at least 1 Phantom to vote"
+msgstr "precisas de, pelo menos, 1 Phantom para votar"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "precisas de, pelo menos, 25 ARK para registar novo delegado"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "precisas de, pelo menos, 25 Phantom para registar novo delegado"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Votar, embora opcional, é um importante mecanismo que contribui para a manutenção da segurança da rede Ark.\nOs 51 delegados com mais votos na rede ficam responsáveis por verificar e forjar transações em novos blocos.\nEsta página pode ser usada para exerceres o teu voto no delegado que apoias."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Votar, embora opcional, é um importante mecanismo que contribui para a manutenção da segurança da rede Phantom.\nOs 51 delegados com mais votos na rede ficam responsáveis por verificar e forjar transações em novos blocos.\nEsta página pode ser usada para exerceres o teu voto no delegado que apoias."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "é necessário dispor de, pelo menos, 5 ARK para criar uma segunda frase-chave"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "é necessário dispor de, pelo menos, 5 Phantom para criar uma segunda frase-chave"
 
