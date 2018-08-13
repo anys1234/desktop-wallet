@@ -78,7 +78,7 @@ msgid "Are you sure?"
 msgstr "Emin misiniz?"
 
 msgid "Background"
-msgstr "Arkaplan"
+msgstr "Phantomaplan"
 
 msgid "Balance"
 msgstr "Bakiye"
@@ -140,9 +140,9 @@ msgstr "Dosya Aç"
 msgid "This account already has a second passphrase:"
 msgstr "Bu hesap için önceden tanımlanmış ikinci bir parola zaten mevcut."
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Oylama isteğe bağlı olmakla birlikte Ark Network işlemlerinin güvenli yapılması açısından önemli bir mekanizmadır. \nEn fazla oy almış 51 delege işlemleri onaylamak ve bunları yeni bloklar içerisine kaydetmekle sorumludurlar.\nBu sayfayı desteklediğiniz bir delegeye oy vermek için kullanabilirsiniz."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Oylama isteğe bağlı olmakla birlikte Phantom Network işlemlerinin güvenli yapılması açısından önemli bir mekanizmadır. \nEn fazla oy almış 51 delege işlemleri onaylamak ve bunları yeni bloklar içerisine kaydetmekle sorumludurlar.\nBu sayfayı desteklediğiniz bir delegeye oy vermek için kullanabilirsiniz."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "İkinci bir parola oluşturabilmek için en az 5 Ark sahibi olmanız gerekiyor."
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "İkinci bir parola oluşturabilmek için en az 5 Phantom sahibi olmanız gerekiyor."
 

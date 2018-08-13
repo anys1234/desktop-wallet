@@ -48,7 +48,7 @@ const hooks = {
       if (!options.useRealPath) {
         app.electron.remote.app.setPath('userData', userData.getTestPath())
       } else if (!options.ignoreDangerousWarning) {
-        console.warn('\n\tTHIS IS THE DANGEROUS PATH OF THE REAL APP!\n\tBAD THINGS COULD HAPPEN IF YOU USE IT:\n\tYOU MAY CRY AFTER LOSING YOU PRECIOUS ARKS!\n')
+        console.warn('\n\tTHIS IS THE DANGEROUS PATH OF THE REAL APP!\n\tBAD THINGS COULD HAPPEN IF YOU USE IT:\n\tYOU MAY CRY AFTER LOSING YOU PRECIOUS PhantomS!\n')
       }
 
       return app.client.waitUntilWindowLoaded()

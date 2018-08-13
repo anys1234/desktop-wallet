@@ -110,8 +110,8 @@ msgstr "Arabisch"
 msgid "Are you sure?"
 msgstr "Bist du sicher?"
 
-msgid "Ark Client"
-msgstr "Ark Client"
+msgid "Phantom Client"
+msgstr "Phantom Client"
 
 msgid "Background"
 msgstr "Hintergrund"
@@ -458,8 +458,8 @@ msgstr "Kein öffentlicher Schlüssel"
 msgid "No search term"
 msgstr "Kein Suchbegriff"
 
-msgid "Not enough ARK on your account"
-msgstr "Nicht genügend ARK in Deinem Account"
+msgid "Not enough Phantom on your account"
+msgstr "Nicht genügend Phantom in Deinem Account"
 
 msgid "OffChain"
 msgstr "Offchain"
@@ -497,8 +497,8 @@ msgstr "Passphrase"
 msgid "Passphrase does not match your address"
 msgstr "Passphrase stimmt nicht mit Deiner Adresse überein"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Der Passphrase ist <strong>case-sensitive</strong> (d.h. Gross-/Kleinschreibung wird berücksichtigt). Jegliche Änderungen, auch wenn nur ein Zeichen geändert wird, resultiert darin, dass eine andere Ark Adresse importiert wird! Passphrases werden <strong>nicht</strong> auf diesem Computer gespeichert! Stelle also immer sicher, dass du deinen Passphrase an einem <strong>sicheren Ort gespeichert hast</strong>!"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Der Passphrase ist <strong>case-sensitive</strong> (d.h. Gross-/Kleinschreibung wird berücksichtigt). Jegliche Änderungen, auch wenn nur ein Zeichen geändert wird, resultiert darin, dass eine andere Phantom Adresse importiert wird! Passphrases werden <strong>nicht</strong> auf diesem Computer gespeichert! Stelle also immer sicher, dass du deinen Passphrase an einem <strong>sicheren Ort gespeichert hast</strong>!"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Passphrase passt nicht zu dem Account"
@@ -590,14 +590,14 @@ msgstr "QR-Scanner"
 msgid "Quit"
 msgstr "Schließen"
 
-msgid "Quit Ark Client?"
-msgstr "Ark Client wirklich schließen?"
+msgid "Quit Phantom Client?"
+msgstr "Phantom Client wirklich schließen?"
 
 msgid "Rank"
 msgstr "Rang"
 
-msgid "Receive Ark"
-msgstr "ARK empfangen"
+msgid "Receive Phantom"
+msgstr "Phantom empfangen"
 
 msgid "Refresh Account"
 msgstr "Konto aktualisieren"
@@ -674,14 +674,14 @@ msgstr "Senden"
 msgid "Send All"
 msgstr "Alle senden"
 
-msgid "Send Ark"
-msgstr "ARK senden"
+msgid "Send Phantom"
+msgstr "Phantom senden"
 
 msgid "Serbian"
 msgstr "Serbisch"
 
-msgid "Send Ark from"
-msgstr "Sende ARK von"
+msgid "Send Phantom from"
+msgstr "Sende Phantom von"
 
 msgid "Set"
 msgstr "Einstellen"
@@ -833,8 +833,8 @@ msgstr "Stimme"
 msgid "Votes"
 msgstr "Stimmen"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Wählen ist zwar optional, stellt aber einen wichtigen Sicherheits-Mechanismus im Ark-Netzwerk dar. Die 51 sogenannten Delegierten mit den meisten Stimmen des Netzwerks sind verantwortlich für das Verifizieren und Erzeugen von Transaktionen in neue Blöcke. Auf dieser Seite kannst du deine Stimme für einen solchen Delegierten abgeben."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Wählen ist zwar optional, stellt aber einen wichtigen Sicherheits-Mechanismus im Phantom-Netzwerk dar. Die 51 sogenannten Delegierten mit den meisten Stimmen des Netzwerks sind verantwortlich für das Verifizieren und Erzeugen von Transaktionen in neue Blöcke. Auf dieser Seite kannst du deine Stimme für einen solchen Delegierten abgeben."
 
 msgid "Word"
 msgstr "Wort"
@@ -881,15 +881,15 @@ msgstr "Produktivität"
 msgid "sent with success!"
 msgstr "Erfolgreich gesendet!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "Du benötigst mindestens 1 ARK, um abstimmen zu können."
+msgid "you need at least 1 Phantom to vote"
+msgstr "Du benötigst mindestens 1 Phantom, um abstimmen zu können."
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "Du benötigst mindestens 25 ARK, um dich als Delegate registrieren zu können."
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "Du benötigst mindestens 25 Phantom, um dich als Delegate registrieren zu können."
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Wählen ist ein freiwilliger, aber wichtiger Mechanismus, der das Ark-Netzwerk sicher hält\nDie 51 Delegierten mit den meisten Stimmen aus dem Netzwerk sind verantwortlich für das Verifizieren und Verarbeiten der Transaktionen in Blöcke.\nAuf dieser Seite kannst du deine Stimme abgeben, um einen Delegate zu wählen, den du unterstützen möchtest."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Wählen ist ein freiwilliger, aber wichtiger Mechanismus, der das Phantom-Netzwerk sicher hält\nDie 51 Delegierten mit den meisten Stimmen aus dem Netzwerk sind verantwortlich für das Verifizieren und Verarbeiten der Transaktionen in Blöcke.\nAuf dieser Seite kannst du deine Stimme abgeben, um einen Delegate zu wählen, den du unterstützen möchtest."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "Du brauchst mindestens 5 ARK um eine zweite Passwortkette zu generieren"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "Du brauchst mindestens 5 Phantom um eine zweite Passwortkette zu generieren"
 

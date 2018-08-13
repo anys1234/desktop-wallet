@@ -80,8 +80,8 @@ msgstr "批准"
 msgid "Are you sure?"
 msgstr "你確定？"
 
-msgid "Ark Client"
-msgstr "ARK客戶端"
+msgid "Phantom Client"
+msgstr "Phantom客戶端"
 
 msgid "Balance"
 msgstr "结余"
@@ -323,8 +323,8 @@ msgstr "沒有公鑰"
 msgid "No search term"
 msgstr "沒有搜索字詞"
 
-msgid "Not enough ARK on your account"
-msgstr "您的賬戶沒有足夠的ARK"
+msgid "Not enough Phantom on your account"
+msgstr "您的賬戶沒有足夠的Phantom"
 
 msgid "OffChain"
 msgstr "離鏈"
@@ -383,14 +383,14 @@ msgstr "生產率"
 msgid "Quit"
 msgstr "退出"
 
-msgid "Quit Ark Client?"
-msgstr "退出ARK客戶端？"
+msgid "Quit Phantom Client?"
+msgstr "退出Phantom客戶端？"
 
 msgid "Rank"
 msgstr "排名"
 
-msgid "Receive Ark"
-msgstr "接收ARK"
+msgid "Receive Phantom"
+msgstr "接收Phantom"
 
 msgid "Register Delegate"
 msgstr "註冊受託人"
@@ -419,10 +419,10 @@ msgstr "二級密碼"
 msgid "Send"
 msgstr "發送"
 
-msgid "Send Ark"
-msgstr "發送Ark"
+msgid "Send Phantom"
+msgstr "發送Phantom"
 
-msgid "Send Ark from"
+msgid "Send Phantom from"
 msgstr "設置"
 
 msgid "Set"
@@ -503,9 +503,9 @@ msgstr "生產塊"
 msgid "sent with success!"
 msgstr "發送成功！"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "您需要至少1 ARK投票"
+msgid "you need at least 1 Phantom to vote"
+msgstr "您需要至少1 Phantom投票"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "你需要至少25個ARK來註冊受託人"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "你需要至少25個Phantom來註冊受託人"
 

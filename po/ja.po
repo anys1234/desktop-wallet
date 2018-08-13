@@ -68,6 +68,6 @@ msgstr "Peerの状態"
 msgid "This account already has a second passphrase:"
 msgstr "このアカウントにはセカンドパスフレーズが既にあります。"
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "セカンドパスフレーズを作成するには最低5ARKを保有している必要があります。"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "セカンドパスフレーズを作成するには最低5Phantomを保有している必要があります。"
 

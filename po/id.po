@@ -47,8 +47,8 @@ msgstr "Persetujuan"
 msgid "Are you sure?"
 msgstr "Anda Yakin?"
 
-msgid "Ark Client"
-msgstr "Client ARK"
+msgid "Phantom Client"
+msgstr "Client Phantom"
 
 msgid "Balance"
 msgstr "Saldo"
@@ -215,8 +215,8 @@ msgstr "Tidak ada publicKey"
 msgid "No search term"
 msgstr "Tidak ada kata pencarian"
 
-msgid "Not enough ARK on your account"
-msgstr "ARK di akun anda tidak cukup"
+msgid "Not enough Phantom on your account"
+msgstr "Phantom di akun anda tidak cukup"
 
 msgid "OffChain"
 msgstr "OffChain"
@@ -275,14 +275,14 @@ msgstr "Produktifitas"
 msgid "Quit"
 msgstr "Berhenti"
 
-msgid "Quit Ark Client?"
-msgstr "Keluar dari Client Ark?"
+msgid "Quit Phantom Client?"
+msgstr "Keluar dari Client Phantom?"
 
 msgid "Rank"
 msgstr "Peringkat"
 
-msgid "Receive Ark"
-msgstr "Terima Ark"
+msgid "Receive Phantom"
+msgstr "Terima Phantom"
 
 msgid "Register Delegate"
 msgstr "Daftar Delegasi"
@@ -311,11 +311,11 @@ msgstr "Kata sandi Kedua"
 msgid "Send"
 msgstr "Kirim"
 
-msgid "Send Ark"
-msgstr "Kirim ARK"
+msgid "Send Phantom"
+msgstr "Kirim Phantom"
 
-msgid "Send Ark from"
-msgstr "Kirim ARK dari"
+msgid "Send Phantom from"
+msgstr "Kirim Phantom dari"
 
 msgid "Set"
 msgstr "Set"
@@ -395,9 +395,9 @@ msgstr "blok yang dihasilkan"
 msgid "sent with success!"
 msgstr "Berhasil dikirim!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "Anda memerlukan setidaknya 1 ARK untuk melakukan vote"
+msgid "you need at least 1 Phantom to vote"
+msgstr "Anda memerlukan setidaknya 1 Phantom untuk melakukan vote"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "Anda memerlukan setidaknya 25 ARK untuk mendaftar delegasi"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "Anda memerlukan setidaknya 25 Phantom untuk mendaftar delegasi"
 

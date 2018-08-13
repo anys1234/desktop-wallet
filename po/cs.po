@@ -110,8 +110,8 @@ msgstr "Arab"
 msgid "Are you sure?"
 msgstr "Jste si jistý/jista?"
 
-msgid "Ark Client"
-msgstr "Ark klient"
+msgid "Phantom Client"
+msgstr "Phantom klient"
 
 msgid "Background"
 msgstr "Pozadí"
@@ -458,8 +458,8 @@ msgstr "Chybí veřejný klíč"
 msgid "No search term"
 msgstr "Chybí vyhledávací podmínka"
 
-msgid "Not enough ARK on your account"
-msgstr "Nedostatek ARK měny na tvém účtu"
+msgid "Not enough Phantom on your account"
+msgstr "Nedostatek Phantom měny na tvém účtu"
 
 msgid "OffChain"
 msgstr "OffChain"
@@ -497,8 +497,8 @@ msgstr "Přihlašovací fráze"
 msgid "Passphrase does not match your address"
 msgstr "Přihlašovací fráze nesouhlasí s tvou adresou"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Přihlašovací fráze je <strong>citlivá na velikost písmen</strong>, každá změna znaku znamená jinou Ark adresu! Přihlašovací fráze na tomto počítači <strong>není v bezpečí</strong> tak se ujistěte že ji máte <strong>bezpečně zazálohovanou jinde!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Přihlašovací fráze je <strong>citlivá na velikost písmen</strong>, každá změna znaku znamená jinou Phantom adresu! Přihlašovací fráze na tomto počítači <strong>není v bezpečí</strong> tak se ujistěte že ji máte <strong>bezpečně zazálohovanou jinde!</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Přihlašovací fráze neodpovídá účtu"
@@ -590,14 +590,14 @@ msgstr "QR Skener"
 msgid "Quit"
 msgstr "Ukončit"
 
-msgid "Quit Ark Client?"
-msgstr "Ukončit Ark klienta?"
+msgid "Quit Phantom Client?"
+msgstr "Ukončit Phantom klienta?"
 
 msgid "Rank"
 msgstr "Pořadí"
 
-msgid "Receive Ark"
-msgstr "Obdržené ARK"
+msgid "Receive Phantom"
+msgstr "Obdržené Phantom"
 
 msgid "Refresh Account"
 msgstr "Obnovit stav účtu"
@@ -674,14 +674,14 @@ msgstr "Odeslat"
 msgid "Send All"
 msgstr "Odeslat všem"
 
-msgid "Send Ark"
-msgstr "Odeslat ARK měnu"
+msgid "Send Phantom"
+msgstr "Odeslat Phantom měnu"
 
 msgid "Serbian"
 msgstr "Srbština"
 
-msgid "Send Ark from"
-msgstr "Poslat ARK od"
+msgid "Send Phantom from"
+msgstr "Poslat Phantom od"
 
 msgid "Set"
 msgstr "Nastavit"
@@ -833,8 +833,8 @@ msgstr "Hlasuj"
 msgid "Votes"
 msgstr "Hlasy"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Hlasování je dobrovolné, ale jde o důležitý mechanizmus jak udržet ARK síť bezpečnou. V celé síti je 51 delegovaných s většinou hlasů, kteří jsou zodpovědni za ověřování a zpracování transakcí do nových bloků. Tady můžeš hlasovat pro\ndelegovaného kterému důvěřuješ a chceš ho podpořit."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Hlasování je dobrovolné, ale jde o důležitý mechanizmus jak udržet Phantom síť bezpečnou. V celé síti je 51 delegovaných s většinou hlasů, kteří jsou zodpovědni za ověřování a zpracování transakcí do nových bloků. Tady můžeš hlasovat pro\ndelegovaného kterému důvěřuješ a chceš ho podpořit."
 
 msgid "Word"
 msgstr "Slovo"
@@ -881,15 +881,15 @@ msgstr "produktivita"
 msgid "sent with success!"
 msgstr "úspěšně posláno!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "pro hlasování potřebuješ alespoň 1 ARK"
+msgid "you need at least 1 Phantom to vote"
+msgstr "pro hlasování potřebuješ alespoň 1 Phantom"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "pro registraci delegovaného potřebuješ alespoň 25 ARK"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "pro registraci delegovaného potřebuješ alespoň 25 Phantom"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Hlasování je dobrovolné, ale jde o důležitý mechanizmus jak udržet ARK síť bezpečnou.\nV celé síti je 51 delegovaných s většinou hlasů, kteří jsou zodpovědni za ověřování a zpracování transakcí do nových bloků.\nTady můžeš hlasovat pro delegovaného kterému důvěřuješ a chceš ho podpořit."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Hlasování je dobrovolné, ale jde o důležitý mechanizmus jak udržet Phantom síť bezpečnou.\nV celé síti je 51 delegovaných s většinou hlasů, kteří jsou zodpovědni za ověřování a zpracování transakcí do nových bloků.\nTady můžeš hlasovat pro delegovaného kterému důvěřuješ a chceš ho podpořit."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "potřebuješ alespoň 5 ARK pro vytvoření druhé přihlašovací fráze"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "potřebuješ alespoň 5 Phantom pro vytvoření druhé přihlašovací fráze"
 

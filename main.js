@@ -47,7 +47,7 @@ if (shouldQuit) {
 
 function createWindow () {
   // Create the browser window.t
-  const iconpath = _path.resolve(__dirname, '/client/ark.png')
+  const iconpath = _path.resolve(__dirname, '/client/phantom-icon.svg')
   let {width, height} = electron.screen.getPrimaryDisplay().workAreaSize
 
   let mainWindowState = windowStateKeeper({
@@ -131,7 +131,7 @@ function createWindow () {
           ledgercomm = null
           const result = {
             connected: false,
-            message: 'Cannot connect to Ark application'
+            message: 'Cannot connect to Phantom application'
           }
           event.returnValue = result
         }
@@ -143,11 +143,11 @@ function createWindow () {
   const about = {
     role: 'about',
     click: () => openAboutWindow({
-      icon_path: `${__dirname}/client/ark.png`,
+      icon_path: `${__dirname}/client/Phantom-icon.svg`,
       package_json_dir: __dirname,
-      copyright: 'Copyright (c) 2017 ARK',
-      homepage: 'https://ark.io/',
-      bug_report_url: 'https://github.com/ArkEcosystem/ark-desktop/issues'
+      copyright: 'Copyright (c) 2017 Phantom',
+      homepage: 'https://Phantom.io/',
+      bug_report_url: 'https://github.com/PhantomEcosystem/Phantom-desktop/issues'
     })
   }
 
@@ -189,7 +189,7 @@ function createWindow () {
       submenu: [
         {
           label: 'Learn More',
-          click () { require('electron').shell.openExternal('https://ark.io') }
+          click () { require('electron').shell.openExternal('https://Phantom.io') }
         },
         { label: 'Reload App', accelerator: 'CmdOrCtrl+R', click: function () { mainWindow.reload() } },
         { label: 'Open Dev Tools', accelerator: 'CmdOrCtrl+D', click: function () { mainWindow.webContents.openDevTools() } }

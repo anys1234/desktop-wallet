@@ -110,8 +110,8 @@ msgstr "Araber"
 msgid "Are you sure?"
 msgstr "Er du sikker?"
 
-msgid "Ark Client"
-msgstr "Ark-klient"
+msgid "Phantom Client"
+msgstr "Phantom-klient"
 
 msgid "Background"
 msgstr "Bakgrunn"
@@ -458,8 +458,8 @@ msgstr "Ingen offentlig nøkkel"
 msgid "No search term"
 msgstr "Ingen søkeord"
 
-msgid "Not enough ARK on your account"
-msgstr "Ikke nok Ark på din konto"
+msgid "Not enough Phantom on your account"
+msgstr "Ikke nok Phantom på din konto"
 
 msgid "OffChain"
 msgstr "Avkjede"
@@ -497,8 +497,8 @@ msgstr "Adgangskode"
 msgid "Passphrase does not match your address"
 msgstr "Passordet matcher ikke adressen din"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Adgangskoden <strong>skiller mellom små og store bokstaver</strong>. Enhver tegn-endring vil resultere i at en annen Ark-adresse importeres! Adgangskoder er <strong>ikke lagret</strong> på denne datamaskinen, så sørg for å alltid ha en <strong>sikker backup!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Adgangskoden <strong>skiller mellom små og store bokstaver</strong>. Enhver tegn-endring vil resultere i at en annen Phantom-adresse importeres! Adgangskoder er <strong>ikke lagret</strong> på denne datamaskinen, så sørg for å alltid ha en <strong>sikker backup!</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Adgangskode stemmer ikke med konto"
@@ -590,14 +590,14 @@ msgstr "QR-scanner"
 msgid "Quit"
 msgstr "Avslutt"
 
-msgid "Quit Ark Client?"
-msgstr "Avslutt Ark-klienten?"
+msgid "Quit Phantom Client?"
+msgstr "Avslutt Phantom-klienten?"
 
 msgid "Rank"
 msgstr "Rangering"
 
-msgid "Receive Ark"
-msgstr "Motta Ark"
+msgid "Receive Phantom"
+msgstr "Motta Phantom"
 
 msgid "Refresh Account"
 msgstr "Oppdater Konto"
@@ -674,14 +674,14 @@ msgstr "Send"
 msgid "Send All"
 msgstr "Send alle"
 
-msgid "Send Ark"
-msgstr "Send Ark"
+msgid "Send Phantom"
+msgstr "Send Phantom"
 
 msgid "Serbian"
 msgstr "Serbisk"
 
-msgid "Send Ark from"
-msgstr "Send Ark fra"
+msgid "Send Phantom from"
+msgstr "Send Phantom fra"
 
 msgid "Set"
 msgstr "Sett"
@@ -833,8 +833,8 @@ msgstr "Stemme"
 msgid "Votes"
 msgstr "Stemmer"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Å stemme er en valgfri, men viktig funksjon for å holde Ark nettverket sikkert. De 51 delegatene med flest stemmer fra nettverket er ansvarlige for å verifisere og å forevige transaksjoner i nye blokker. Denne siden kan bli brukt for å stemme på den delegaten du støtter."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Å stemme er en valgfri, men viktig funksjon for å holde Phantom nettverket sikkert. De 51 delegatene med flest stemmer fra nettverket er ansvarlige for å verifisere og å forevige transaksjoner i nye blokker. Denne siden kan bli brukt for å stemme på den delegaten du støtter."
 
 msgid "Word"
 msgstr "Ord"
@@ -881,15 +881,15 @@ msgstr "produktivitet"
 msgid "sent with success!"
 msgstr "sending vellykket!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "du trenger minst 1 ARK for å stemme"
+msgid "you need at least 1 Phantom to vote"
+msgstr "du trenger minst 1 Phantom for å stemme"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "du trenger minst 25 ARK for å registrere en delegat"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "du trenger minst 25 Phantom for å registrere en delegat"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Å stemme er en valgfri, men viktig funksjon som holder Ark-nettverket sikkert. De 51 delegatene med flest stemmer fra nettverket er ansvarlig for å verifisere og forevige transaksjoner inn i nye blokker. \nDenne siden kan brukes til å stemme på en delegat du støtter."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Å stemme er en valgfri, men viktig funksjon som holder Phantom-nettverket sikkert. De 51 delegatene med flest stemmer fra nettverket er ansvarlig for å verifisere og forevige transaksjoner inn i nye blokker. \nDenne siden kan brukes til å stemme på en delegat du støtter."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "Du trenger minst 5 ARK for å lage en andre adgangskode"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "Du trenger minst 5 Phantom for å lage en andre adgangskode"
 

@@ -110,8 +110,8 @@ msgstr "Arapski"
 msgid "Are you sure?"
 msgstr "Jeste li sigurni?"
 
-msgid "Ark Client"
-msgstr "Ark klijent"
+msgid "Phantom Client"
+msgstr "Phantom klijent"
 
 msgid "Background"
 msgstr "Pozadina"
@@ -458,8 +458,8 @@ msgstr "Nema javnog ključa"
 msgid "No search term"
 msgstr "Nema traženog termina"
 
-msgid "Not enough ARK on your account"
-msgstr "Nemate dovoljno ARK-ova na vašem računu"
+msgid "Not enough Phantom on your account"
+msgstr "Nemate dovoljno Phantom-ova na vašem računu"
 
 msgid "OffChain"
 msgstr "Izvan lanca"
@@ -497,8 +497,8 @@ msgstr "Lozinka"
 msgid "Passphrase does not match your address"
 msgstr "Lozinka ne odgovara vašoj adresi"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "Lozinka je <strong>osjetljiva na mala i velika slova</strong> i svaka promjena znaka će za rezultat imati različitu Ark adresu! Lozinke <strong>nisu spremljene</strong> na ovo računalo, te zbog toga uvijek budite sigurni da imate njihovu <strong>sigurnosnu kopiju!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "Lozinka je <strong>osjetljiva na mala i velika slova</strong> i svaka promjena znaka će za rezultat imati različitu Phantom adresu! Lozinke <strong>nisu spremljene</strong> na ovo računalo, te zbog toga uvijek budite sigurni da imate njihovu <strong>sigurnosnu kopiju!</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Lozinka ne pripada vašem računu"
@@ -590,14 +590,14 @@ msgstr "QR čitač"
 msgid "Quit"
 msgstr "Izlaz"
 
-msgid "Quit Ark Client?"
-msgstr "Izađi iz ARK klijenta?"
+msgid "Quit Phantom Client?"
+msgstr "Izađi iz Phantom klijenta?"
 
 msgid "Rank"
 msgstr "Mjesto"
 
-msgid "Receive Ark"
-msgstr "Primi Ark"
+msgid "Receive Phantom"
+msgstr "Primi Phantom"
 
 msgid "Refresh Account"
 msgstr "Osvježi Račun"
@@ -674,14 +674,14 @@ msgstr "Pošalji"
 msgid "Send All"
 msgstr "Pošalji sve"
 
-msgid "Send Ark"
-msgstr "Pošalji Ark"
+msgid "Send Phantom"
+msgstr "Pošalji Phantom"
 
 msgid "Serbian"
 msgstr "Srpski"
 
-msgid "Send Ark from"
-msgstr "Pošalji Ark iz"
+msgid "Send Phantom from"
+msgstr "Pošalji Phantom iz"
 
 msgid "Set"
 msgstr "Postavi"
@@ -830,8 +830,8 @@ msgstr "Glasaj"
 msgid "Votes"
 msgstr "Glasovi"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
-msgstr "Glasanje je opcionalno, ali je bitan mehanizam koji osigurava Ark mrežu sigurnom. 51 delegat sa najviše glasova s mreže su odgovorni za potvrđivanje i kovanje transkacija u nove blokove. Ova stranica može biti korištena u svrhu glasanja za delegata kojega podržavaš."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure. The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks. This page can be used to cast your vote for\n                a delegate that you support."
+msgstr "Glasanje je opcionalno, ali je bitan mehanizam koji osigurava Phantom mrežu sigurnom. 51 delegat sa najviše glasova s mreže su odgovorni za potvrđivanje i kovanje transkacija u nove blokove. Ova stranica može biti korištena u svrhu glasanja za delegata kojega podržavaš."
 
 msgid "Word"
 msgstr "Riječ"
@@ -878,15 +878,15 @@ msgstr "produktivnost"
 msgid "sent with success!"
 msgstr "uspješno poslano!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "moraš imati barem 1 ARK za glasanje"
+msgid "you need at least 1 Phantom to vote"
+msgstr "moraš imati barem 1 Phantom za glasanje"
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "moraš imati barem 25 ARK-ova za registriranje delegata"
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "moraš imati barem 25 Phantom-ova za registriranje delegata"
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Glasanje je opcionalno, ali je bitan mehanizam koji osigurava Ark mrežu sigurnom. \n51 delegat sa najviše glasova s mreže su odgovorni za potvrđivanje i kovanje transkacija u nove blokove. \nOva stranica može biti korištena u svrhu glasanja za delegata kojega podržavaš."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Glasanje je opcionalno, ali je bitan mehanizam koji osigurava Phantom mrežu sigurnom. \n51 delegat sa najviše glasova s mreže su odgovorni za potvrđivanje i kovanje transkacija u nove blokove. \nOva stranica može biti korištena u svrhu glasanja za delegata kojega podržavaš."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "trebaš minimalno 5 ARK-ova za stvaranje dodatne lozinke"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "trebaš minimalno 5 Phantom-ova za stvaranje dodatne lozinke"
 

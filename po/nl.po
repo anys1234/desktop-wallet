@@ -110,8 +110,8 @@ msgstr "Arabisch"
 msgid "Are you sure?"
 msgstr "Weet je het zeker?"
 
-msgid "Ark Client"
-msgstr "Ark client"
+msgid "Phantom Client"
+msgstr "Phantom client"
 
 msgid "Background"
 msgstr "Achtergrond"
@@ -449,8 +449,8 @@ msgstr "Geen publieke sleutel"
 msgid "No search term"
 msgstr "Geen zoekterm"
 
-msgid "Not enough ARK on your account"
-msgstr "Niet genoeg ARK op uw rekening"
+msgid "Not enough Phantom on your account"
+msgstr "Niet genoeg Phantom op uw rekening"
 
 msgid "OffChain"
 msgstr "OffChain"
@@ -488,8 +488,8 @@ msgstr "wachtwoord"
 msgid "Passphrase does not match your address"
 msgstr "Passphrase komt niet overeen met uw adres"
 
-msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Ark address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
-msgstr "De wachtwoordzin is <strong>hoofdlettergevoelig</strong>, elke karakter verandering zal een ander Ark adres tot gevolg hebben! Wachtwoordzinnen worden <strong>niet</strong> op de computer opgeslagen, zorg er altijd voor dat ze <strong>veilig opgeslagen zijn!</strong>"
+msgid "Passphrase is <strong>case sensitive</strong>, each character change will result in importing a different Phantom address! Passphrases are <strong>not saved</strong> on this computer so always make sure you have them <strong>backed up safely!</strong>"
+msgstr "De wachtwoordzin is <strong>hoofdlettergevoelig</strong>, elke karakter verandering zal een ander Phantom adres tot gevolg hebben! Wachtwoordzinnen worden <strong>niet</strong> op de computer opgeslagen, zorg er altijd voor dat ze <strong>veilig opgeslagen zijn!</strong>"
 
 msgid "Passphrase is not corresponding to account"
 msgstr "Wachtwoord is niet overeenkomt met verantwoording"
@@ -560,14 +560,14 @@ msgstr "QR-scanner"
 msgid "Quit"
 msgstr "Ophouden"
 
-msgid "Quit Ark Client?"
-msgstr "Stoppen Ark Client?"
+msgid "Quit Phantom Client?"
+msgstr "Stoppen Phantom Client?"
 
 msgid "Rank"
 msgstr "Rang"
 
-msgid "Receive Ark"
-msgstr "Ontvang Ark"
+msgid "Receive Phantom"
+msgstr "Ontvang Phantom"
 
 msgid "Register Delegate"
 msgstr "Registreer gedelegeerde "
@@ -629,11 +629,11 @@ msgstr "Sturen"
 msgid "Send All"
 msgstr "Alles versturen"
 
-msgid "Send Ark"
-msgstr "Stuur Ark"
+msgid "Send Phantom"
+msgstr "Stuur Phantom"
 
-msgid "Send Ark from"
-msgstr "Stuur Ark van"
+msgid "Send Phantom from"
+msgstr "Stuur Phantom van"
 
 msgid "Set"
 msgstr "Set"
@@ -818,15 +818,15 @@ msgstr "productiviteit"
 msgid "sent with success!"
 msgstr "Verzonden met succes!"
 
-msgid "you need at least 1 ARK to vote"
-msgstr "U heeft minimaal 1 ARK nodig om te stemmen."
+msgid "you need at least 1 Phantom to vote"
+msgstr "U heeft minimaal 1 Phantom nodig om te stemmen."
 
-msgid "you need at least 25 ARK to register delegate"
-msgstr "U heeft minimaal 25 ARK nodig om delegat te registreren."
+msgid "you need at least 25 Phantom to register delegate"
+msgstr "U heeft minimaal 25 Phantom nodig om delegat te registreren."
 
-msgid "Voting is an optional, but important mechanism that keeps the Ark network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
-msgstr "Stemmen is optioneel, maar een belangrijk mechanisme wat het Ark netwerk veilig houdt.\nDe 51 gedelegeerden met de meeste stemmen van het netwerk zijn verantwoordelijk voor het verifiëren en het smeden van transacties in nieuwe blokken.\nDeze pagina kan gebruikt worden om uw stem te doen voor de gedelegeerde welke u steunt."
+msgid "Voting is an optional, but important mechanism that keeps the Phantom network secure.\n                The 51 delegates with the most votes from the network are responsible for verifying and forging transactions into new blocks.\n                This page can be used to cast your vote for a delegate that you support."
+msgstr "Stemmen is optioneel, maar een belangrijk mechanisme wat het Phantom netwerk veilig houdt.\nDe 51 gedelegeerden met de meeste stemmen van het netwerk zijn verantwoordelijk voor het verifiëren en het smeden van transacties in nieuwe blokken.\nDeze pagina kan gebruikt worden om uw stem te doen voor de gedelegeerde welke u steunt."
 
-msgid "you need at least 5 ARK to create a second passphrase"
-msgstr "U heeft minimaal 5 ARK nodig om een tweede passphrase aan te maken"
+msgid "you need at least 5 Phantom to create a second passphrase"
+msgstr "U heeft minimaal 5 Phantom nodig om een tweede passphrase aan te maken"
 
