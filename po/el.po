@@ -41,7 +41,7 @@ msgstr "Διεύθυνση"
 msgid "Amount"
 msgstr "Ποσό"
 
-msgid "Amount (Ѧ)"
+msgid "Amount (Ẕ)"
 msgstr "Ποσό"
 
 msgid "Approval"
@@ -167,7 +167,7 @@ msgstr "Ανταλλακτήριο"
 msgid "File"
 msgstr "Αρχείο"
 
-msgid "Fee (Ѧ)"
+msgid "Fee (Ẕ)"
 msgstr "Τέλη"
 
 msgid "Folder Name"

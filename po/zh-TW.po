@@ -71,8 +71,8 @@ msgstr "地址版本"
 msgid "Amount"
 msgstr "合計"
 
-msgid "Amount (Ѧ)"
-msgstr "合計 (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "合計 (Ẕ)"
 
 msgid "Approval"
 msgstr "批准"
@@ -245,8 +245,8 @@ msgstr "檔案"
 msgid "Finish"
 msgstr "完成"
 
-msgid "Fee (Ѧ)"
-msgstr "費用（Ѧ）"
+msgid "Fee (Ẕ)"
+msgstr "費用（Ẕ）"
 
 msgid "Folder Name"
 msgstr "文件夾名稱"

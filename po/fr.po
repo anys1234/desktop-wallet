@@ -92,8 +92,8 @@ msgstr "Apparence"
 msgid "Application"
 msgstr "Application"
 
-msgid "Amount (Ѧ)"
-msgstr "Montant (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Montant (Ẕ)"
 
 msgid "Approval"
 msgstr "Approbation"
@@ -299,8 +299,8 @@ msgstr "Fichier"
 msgid "Finish"
 msgstr "Terminer"
 
-msgid "Fee (Ѧ)"
-msgstr "Frais (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Frais (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nom du portefeuille virtuel"

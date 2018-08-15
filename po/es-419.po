@@ -92,8 +92,8 @@ msgstr "Apariencia"
 msgid "Application"
 msgstr "Aplicación"
 
-msgid "Amount (Ѧ)"
-msgstr "Cantidad (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Cantidad (Ẕ)"
 
 msgid "Approval"
 msgstr "Aprobación"
@@ -293,8 +293,8 @@ msgstr "Archivo"
 msgid "Finish"
 msgstr "Terminar"
 
-msgid "Fee (Ѧ)"
-msgstr "Tasa (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Tasa (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nombre de Carpeta"

@@ -89,8 +89,8 @@ msgstr "Изглед"
 msgid "Application"
 msgstr "Приложение"
 
-msgid "Amount (Ѧ)"
-msgstr "Сума (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Сума (Ẕ)"
 
 msgid "Approval"
 msgstr "Потвърждение"
@@ -257,8 +257,8 @@ msgstr "Експлорър"
 msgid "File"
 msgstr "Файл"
 
-msgid "Fee (Ѧ)"
-msgstr "Такса (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Такса (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Име на папка"

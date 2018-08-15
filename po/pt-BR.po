@@ -83,8 +83,8 @@ msgstr "Aparência"
 msgid "Application"
 msgstr "Aplicação"
 
-msgid "Amount (Ѧ)"
-msgstr "Quantidade (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Quantidade (Ẕ)"
 
 msgid "Approval"
 msgstr "Aprovação"
@@ -284,8 +284,8 @@ msgstr "Taxa ({{ul.network.symbol}})"
 msgid "File"
 msgstr "Erro no processamento da assinatura"
 
-msgid "Fee (Ѧ)"
-msgstr "Taxa (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Taxa (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nome da pasta"

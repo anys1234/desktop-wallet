@@ -92,8 +92,8 @@ msgstr "모양"
 msgid "Application"
 msgstr "애플리케이션"
 
-msgid "Amount (Ѧ)"
-msgstr "개(Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "개(Ẕ)"
 
 msgid "Approval"
 msgstr "승인"
@@ -299,8 +299,8 @@ msgstr "파일"
 msgid "Finish"
 msgstr "완료"
 
-msgid "Fee (Ѧ)"
-msgstr "수수료(Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "수수료(Ẕ)"
 
 msgid "Folder Name"
 msgstr "폴더 이름"

@@ -8,10 +8,29 @@
    * NetworkService
    * @constructor
    */
-  function NetworkService ($q, $http, $timeout, storageService, timeService, toastService) {
+  function NetworkService($q, $http, $timeout, storageService, timeService, toastService) {
     const _path = require('path')
     const ark = require(_path.resolve(__dirname, '../node_modules/arkjs'))
-    const mainNetArkJsNetworkKey = 'ark'
+    ark.networks.phantomTestnet = {
+      messagePrefix: '\x18PHANTOM Testnet message:\n',
+      name: 'phantomTestnet',
+      bip32: {
+        public: 70617039,
+        private: 70615956
+      },
+      activePeer: {
+        ip: 'texplorer.phantom.org',
+        port: 4001
+      },
+      pubKeyHash: 55,
+      wif: 187,
+      explorer: 'https://texplorer.phantom.org',
+      nethash: 'e62ee59508e610421d7d39567cca36479397fa3c63b1d2e9458e08dee9eb6481',
+      symbol: 'Ẕ',
+      token: 'XNC',
+      version: 55
+    }
+    const mainNetArkJsNetworkKey = 'phantomTestnet'
     const devNetArkJsNetworkKey = 'testnet'
 
     let network = switchNetwork(storageService.getContext())
@@ -33,14 +52,14 @@
       isConnected: false,
       height: 0,
       lastConnection: null,
-      price: storageService.getGlobal('peerCurrencies') || { btc: '0.0' }
+      price: storageService.getGlobal('peerCurrencies') || {btc: '0.0'}
     }
 
     const connection = $q.defer()
 
     connection.notify(peer)
 
-    function setNetwork (name, newnetwork) {
+    function setNetwork(name, newnetwork) {
       ensureValidPeerSeed(newnetwork)
 
       const n = storageService.getGlobal('networks')
@@ -48,14 +67,14 @@
       storageService.setGlobal('networks', n)
     }
 
-    function removeNetwork (name) {
+    function removeNetwork(name) {
       const n = storageService.getGlobal('networks')
       delete n[name]
       storageService.setGlobal('networks', n)
       storageService.deleteState()
     }
 
-    function createNetwork (data) {
+    function createNetwork(data) {
       ensureValidPeerSeed(data)
       const networks = storageService.getGlobal('networks')
       const deferred = $q.defer()
@@ -84,7 +103,7 @@
       return deferred.promise
     }
 
-    function ensureValidPeerSeed (network) {
+    function ensureValidPeerSeed(network) {
       if (!network || !network.peerseed) {
         return
       }
@@ -92,7 +111,7 @@
       network.peerseed = network.peerseed.replace(/\/$/, '')
     }
 
-    function switchNetwork (newnetwork, reload) {
+    function switchNetwork(newnetwork, reload) {
       let n
       if (!newnetwork) { // perform round robin
         n = storageService.getGlobal('networks')
@@ -108,8 +127,7 @@
       n = storageService.getGlobal('networks')
       if (!n) {
         n = {
-          mainnet: createNetworkFromArkJs(mainNetArkJsNetworkKey, 0x17, 111, 'url(assets/images/images/Ark.jpg)'),
-          devnet: createNetworkFromArkJs(devNetArkJsNetworkKey, 30, 1, '#222299')
+          TESTNET: createNetworkFromArkJs(mainNetArkJsNetworkKey, 0x17, 111, 'url(assets/images/images/Ark.jpg)')
         }
         storageService.setGlobal('networks', n)
       }
@@ -119,7 +137,7 @@
       return n[newnetwork]
     }
 
-    function createNetworkFromArkJs (arkJsNetworkKey, version, slip44, background) {
+    function createNetworkFromArkJs(arkJsNetworkKey, version, slip44, background) {
       const arkJsNetwork = ark.networks[arkJsNetworkKey]
 
       return {
@@ -138,7 +156,7 @@
       }
     }
 
-    function tryGetPeersFromArkJs () {
+    function tryGetPeersFromArkJs() {
       if (!network.arkJsKey) {
         return
       }
@@ -151,20 +169,20 @@
       return arkjsNetwork.peers
     }
 
-    function getNetwork () {
+    function getNetwork() {
       return network
     }
 
-    function getNetworkName () {
+    function getNetworkName() {
       return storageService.getContext()
     }
 
-    function getNetworks () {
+    function getNetworks() {
       return storageService.getGlobal('networks')
     }
 
-    function listenNetworkHeight () {
-      $http.get(peer.ip + '/api/blocks/getHeight', { timeout: 5000 }).then(resp => {
+    function listenNetworkHeight() {
+      $http.get(peer.ip + '/api/blocks/getHeight', {timeout: 5000}).then(resp => {
         timeService.getTimestamp().then(
           (timestamp) => {
             peer.lastConnection = timestamp
@@ -190,7 +208,7 @@
       $timeout(() => listenNetworkHeight(), 60000)
     }
 
-    function getFromPeer (api) {
+    function getFromPeer(api) {
       const deferred = $q.defer()
       peer.lastConnection = new Date()
       $http({
@@ -222,7 +240,7 @@
       return deferred.promise
     }
 
-    function broadcastTransaction (transaction, max) {
+    function broadcastTransaction(transaction, max) {
       const peers = storageService.get('peers')
       if (!peers) {
         return
@@ -237,7 +255,7 @@
       }
     }
 
-    function postTransaction (transaction, ip) {
+    function postTransaction(transaction, ip) {
       const deferred = $q.defer()
       let peerIp = ip
       if (!peerIp) {
@@ -248,7 +266,7 @@
 
       $http({
         url: `${peerIp}/${endpoint}`,
-        data: { transactions: [transaction] },
+        data: {transactions: [transaction]},
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -271,7 +289,7 @@
       return deferred.promise
     }
 
-    function pickRandomPeer () {
+    function pickRandomPeer() {
       if (network.forcepeer) {
         return
       }
@@ -290,7 +308,7 @@
         }, () => findGoodPeer(storageService.get('peers'), 0))
     }
 
-    function findGoodPeer (peers, index, isStaticPeerList) {
+    function findGoodPeer(peers, index, isStaticPeerList) {
       const isPeerListValid = () => peers && index <= peers.length - 1
 
       if (!isStaticPeerList && !isPeerListValid()) {
@@ -325,18 +343,18 @@
         }, () => findGoodPeer(peers, index + 1, isStaticPeerList))
     }
 
-    function getPeer () {
+    function getPeer() {
       return peer
     }
 
-    function getConnection () {
+    function getConnection() {
       return connection.promise
     }
 
-    function getLatestClientVersion () {
+    function getLatestClientVersion() {
       const deferred = $q.defer()
       const url = 'https://api.github.com/repos/PhantomEcosystem/Phantom-desktop/releases/latest'
-      $http.get(url, { timeout: 5000 })
+      $http.get(url, {timeout: 5000})
         .then((res) => {
           deferred.resolve(res.data.tag_name)
         }, (e) => {

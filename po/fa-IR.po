@@ -92,8 +92,8 @@ msgstr "ظاهر"
 msgid "Application"
 msgstr "برنامه"
 
-msgid "Amount (Ѧ)"
-msgstr "مقدار  (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "مقدار  (Ẕ)"
 
 msgid "Approval"
 msgstr "تایید"
@@ -299,8 +299,8 @@ msgstr "فایل"
 msgid "Finish"
 msgstr "پایان"
 
-msgid "Fee (Ѧ)"
-msgstr "کارمزد (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "کارمزد (Ẕ)"
 
 msgid "Folder Name"
 msgstr "نام پوشه"

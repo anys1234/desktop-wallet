@@ -32,8 +32,8 @@ msgstr "Cím"
 msgid "Amount"
 msgstr "Összeg"
 
-msgid "Amount (Ѧ)"
-msgstr "Összeg (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Összeg (Ẕ)"
 
 msgid "Approval"
 msgstr "Jóváhagyás"

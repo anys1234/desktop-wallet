@@ -3,5 +3,6 @@
     "editor.insertSpaces": true,
     "files.trimTrailingWhitespace": true,
     "javascript.validate.enable": false,
-    "eslint.enable": true
+    "eslint.enable": true,
+    "git.ignoreLimitWarning": true
 }

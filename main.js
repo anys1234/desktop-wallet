@@ -146,7 +146,7 @@ function createWindow () {
       icon_path: `${__dirname}/client/Phantom-icon.svg`,
       package_json_dir: __dirname,
       copyright: 'Copyright (c) 2017 Phantom',
-      homepage: 'https://Phantom.io/',
+      homepage: 'https://Phantom.org/',
       bug_report_url: 'https://github.com/PhantomEcosystem/Phantom-desktop/issues'
     })
   }
@@ -189,7 +189,7 @@ function createWindow () {
       submenu: [
         {
           label: 'Learn More',
-          click () { require('electron').shell.openExternal('https://Phantom.io') }
+          click () { require('electron').shell.openExternal('https://Phantom.org') }
         },
         { label: 'Reload App', accelerator: 'CmdOrCtrl+R', click: function () { mainWindow.reload() } },
         { label: 'Open Dev Tools', accelerator: 'CmdOrCtrl+D', click: function () { mainWindow.webContents.openDevTools() } }
