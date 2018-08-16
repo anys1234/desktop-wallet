@@ -1,4 +1,3 @@
-![ARK-DESKTOP](https://i.imgur.com/eZPrrCQ.png)
 
 [![Build Status](https://travis-ci.org/ArkEcosystem/desktop-wallet.svg?branch=master)](https://travis-ci.org/ArkEcosystem/desktop-wallet)
 [![Github Latest Release](https://img.shields.io/github/release/ArkEcosystem/desktop-wallet.svg)](https://github.com/ArkEcosystem/desktop-wallet/releases/latest)
