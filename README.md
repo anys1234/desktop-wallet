@@ -59,8 +59,7 @@ brew cask install arkclient
 
 
 ## Screenshots
-![dashboard](https://i.imgur.com/AVdyM16.jpg)
-![account](https://i.imgur.com/DD8fx1O.jpg)
+
 
 ## Build
 
@@ -73,7 +72,7 @@ nvm use
 Install from source:
 ```bash
 # Clone this repository
-git clone https://github.com/ArkEcosystem/ark-desktop
+git clone https://github.com/PhantomCore/ark-desktop
 # Go into the repository
 cd ark-desktop
 # Install dependencies
