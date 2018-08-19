@@ -1,7 +1,7 @@
 {
-  "name": "ArkClient",
-  "version": "1.6.1",
-  "productName": "ArkClient",
+  "name": "PhantomClient",
+  "version": "1.0.0",
+  "productName": "PhantomClient",
   "description": "Phantom Desktop Wallet",
   "main": "main.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "url": "git+https://github.com/ArkEcosystem/ark-desktop.git"
   },
   "keywords": [
-    "Ark",
+    "Phantom",
     "Client",
     "Electron"
   ],
@@ -106,7 +106,7 @@
     "spectron": "^3.7.2"
   },
   "build": {
-    "appId": "com.arkwallet.liteclient",
+    "appId": "com.phantomwallet.liteclient",
     "protocols": {
       "name": "Phantom URI scheme",
       "schemes": [
@@ -128,7 +128,7 @@
         "tar.xz"
       ],
       "desktop": {
-        "MimeType": "x-scheme-handler/ark;"
+        "MimeType": "x-scheme-handler/phantom;"
       },
       "category": "Network"
     },

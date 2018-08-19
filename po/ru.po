@@ -86,8 +86,8 @@ msgstr "Отображение"
 msgid "Application"
 msgstr "Приложение"
 
-msgid "Amount (Ѧ)"
-msgstr "Количество (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Количество (Ẕ)"
 
 msgid "Approval"
 msgstr "Подтверждение"
@@ -275,8 +275,8 @@ msgstr "Файл"
 msgid "Finish"
 msgstr "Конец"
 
-msgid "Fee (Ѧ)"
-msgstr "Комиссия (Ѧ)\n"
+msgid "Fee (Ẕ)"
+msgstr "Комиссия (Ẕ)\n"
 
 msgid "Folder Name"
 msgstr "Имя Папки"

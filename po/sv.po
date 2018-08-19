@@ -83,8 +83,8 @@ msgstr "Utseende"
 msgid "Application"
 msgstr "Applikation"
 
-msgid "Amount (Ѧ)"
-msgstr "Belopp (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Belopp (Ẕ)"
 
 msgid "Approval"
 msgstr "Godkännande"
@@ -284,8 +284,8 @@ msgstr "Fil"
 msgid "Finish"
 msgstr "Avsluta"
 
-msgid "Fee (Ѧ)"
-msgstr "Avgift (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Avgift (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Mapp namn"

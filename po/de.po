@@ -92,8 +92,8 @@ msgstr "Erscheinungsbild"
 msgid "Application"
 msgstr "Anwendung"
 
-msgid "Amount (Ѧ)"
-msgstr "Betrag (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Betrag (Ẕ)"
 
 msgid "Approval"
 msgstr "Zustimmung"
@@ -299,8 +299,8 @@ msgstr "Datei"
 msgid "Finish"
 msgstr "Abschliessen"
 
-msgid "Fee (Ѧ)"
-msgstr "Gebühr (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Gebühr (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Ordnername"

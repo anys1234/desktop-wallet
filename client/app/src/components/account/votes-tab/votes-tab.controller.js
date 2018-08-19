@@ -82,7 +82,7 @@
     }
 
     this.openBlog = (uri) => {
-      require('electron').shell.openExternal(`https://blog.ark.io${uri}`)
+      require('electron').shell.openExternal(`https://blog.phantom.org${uri}`)
     }
   }
 

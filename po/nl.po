@@ -92,8 +92,8 @@ msgstr "Vormgeving"
 msgid "Application"
 msgstr "Applicatie"
 
-msgid "Amount (Ѧ)"
-msgstr "Bedrag (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Bedrag (Ẕ)"
 
 msgid "Approval"
 msgstr "Goedkeuring"
@@ -293,7 +293,7 @@ msgstr "Bestand"
 msgid "Finish"
 msgstr "Afronden"
 
-msgid "Fee (Ѧ)"
+msgid "Fee (Ẕ)"
 msgstr "Prijs "
 
 msgid "Folder Name"

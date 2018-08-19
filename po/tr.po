@@ -65,8 +65,8 @@ msgstr "Görünüm"
 msgid "Application"
 msgstr "Uygulama"
 
-msgid "Amount (Ѧ)"
-msgstr "Miktar (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Miktar (Ẕ)"
 
 msgid "Arabic"
 msgstr "Arapça"

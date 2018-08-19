@@ -92,8 +92,8 @@ msgstr "Utseende"
 msgid "Application"
 msgstr "Applikasjon"
 
-msgid "Amount (Ѧ)"
-msgstr "Beløp (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Beløp (Ẕ)"
 
 msgid "Approval"
 msgstr "Godkjenning"
@@ -299,8 +299,8 @@ msgstr "Fil"
 msgid "Finish"
 msgstr "Ferdig"
 
-msgid "Fee (Ѧ)"
-msgstr "Avgift (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Avgift (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Navn på mappe"

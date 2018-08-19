@@ -92,8 +92,8 @@ msgstr "Ulkonäkö"
 msgid "Application"
 msgstr "Hakemus"
 
-msgid "Amount (Ѧ)"
-msgstr "Määrä (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Määrä (Ẕ)"
 
 msgid "Approval"
 msgstr "Hyväksyntä"
@@ -299,8 +299,8 @@ msgstr "Tiedosto"
 msgid "Finish"
 msgstr "Suomi"
 
-msgid "Fee (Ѧ)"
-msgstr "Kulut (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Kulut (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Kansion Nimi"

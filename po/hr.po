@@ -92,8 +92,8 @@ msgstr "Izgled"
 msgid "Application"
 msgstr "Aplikacija"
 
-msgid "Amount (Ѧ)"
-msgstr "Iznos (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Iznos (Ẕ)"
 
 msgid "Approval"
 msgstr "Odobrenje"
@@ -299,8 +299,8 @@ msgstr "Datoteka"
 msgid "Finish"
 msgstr "Završi"
 
-msgid "Fee (Ѧ)"
-msgstr "Naknada (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Naknada (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Ime Mape"

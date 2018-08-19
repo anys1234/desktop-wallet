@@ -89,8 +89,8 @@ msgstr "Aspetto"
 msgid "Application"
 msgstr "Applicazione"
 
-msgid "Amount (Ѧ)"
-msgstr "Somma (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Somma (Ẕ)"
 
 msgid "Approval"
 msgstr "Approvazione"
@@ -257,8 +257,8 @@ msgstr "Explorer"
 msgid "File"
 msgstr "File"
 
-msgid "Fee (Ѧ)"
-msgstr "Commissione (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Commissione (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nome Cartella"

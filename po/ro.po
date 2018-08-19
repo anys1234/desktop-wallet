@@ -158,8 +158,8 @@ msgstr "Schimb Valutar"
 msgid "File"
 msgstr "Fisier"
 
-msgid "Fee (Ѧ)"
-msgstr "taxa (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "taxa (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nume Dosar"

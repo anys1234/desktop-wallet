@@ -92,8 +92,8 @@ msgstr "Aspeto"
 msgid "Application"
 msgstr "Aplicação"
 
-msgid "Amount (Ѧ)"
-msgstr "Montante (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Montante (Ẕ)"
 
 msgid "Approval"
 msgstr "Aprovação"
@@ -299,8 +299,8 @@ msgstr "Ficheiro"
 msgid "Finish"
 msgstr "Terminar"
 
-msgid "Fee (Ѧ)"
-msgstr "Taxa (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Taxa (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Nome da Pasta"

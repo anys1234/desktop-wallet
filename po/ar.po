@@ -89,8 +89,8 @@ msgstr "مظهر"
 msgid "Application"
 msgstr "تطبيق"
 
-msgid "Amount (Ѧ)"
-msgstr "مبلغ (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "مبلغ (Ẕ)"
 
 msgid "Approval"
 msgstr "موافقة"
@@ -257,8 +257,8 @@ msgstr "مستكشف"
 msgid "File"
 msgstr "ملف"
 
-msgid "Fee (Ѧ)"
-msgstr "رسوم (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "رسوم (Ẕ)"
 
 msgid "Folder Name"
 msgstr "اسم المُجلّد"

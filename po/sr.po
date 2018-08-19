@@ -89,8 +89,8 @@ msgstr "Изглед"
 msgid "Application"
 msgstr "Апликација"
 
-msgid "Amount (Ѧ)"
-msgstr "Количина (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "Количина (Ẕ)"
 
 msgid "Approval"
 msgstr "Одобрење"
@@ -257,8 +257,8 @@ msgstr "Претраживач"
 msgid "File"
 msgstr "Датотека"
 
-msgid "Fee (Ѧ)"
-msgstr "Хонорар (Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "Хонорар (Ẕ)"
 
 msgid "Folder Name"
 msgstr "Назив мапе"

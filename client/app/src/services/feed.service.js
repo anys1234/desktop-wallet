@@ -23,7 +23,7 @@
        * Fetches and parses the RSS of ARK.io
        */
       fetchBlogEntries () {
-        const rssUrl = 'https://blog.ark.io/feed'
+        const rssUrl = 'https://blog.phantom.org/feed'
         return this.fetchAndParse(rssUrl).then(parsed => parsed.feed.entries)
       }
     }

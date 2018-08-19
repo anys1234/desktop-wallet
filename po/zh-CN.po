@@ -59,8 +59,8 @@ msgstr "地址"
 msgid "Amount"
 msgstr "合计"
 
-msgid "Amount (Ѧ)"
-msgstr "合计 (Ѧ)"
+msgid "Amount (Ẕ)"
+msgstr "合计 (Ẕ)"
 
 msgid "Approval"
 msgstr "得票率"
@@ -158,8 +158,8 @@ msgstr "错误"
 msgid "Exchange"
 msgstr "交换"
 
-msgid "Fee (Ѧ)"
-msgstr "费用(Ѧ)"
+msgid "Fee (Ẕ)"
+msgstr "费用(Ẕ)"
 
 msgid "Folder Name"
 msgstr "文件夹名称"
