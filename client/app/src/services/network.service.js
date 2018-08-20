@@ -20,7 +20,8 @@
       },
       activePeer: {
         ip: 'texplorer.phantom.org',
-        port: 4001
+        port: 4200,
+        schema: 'https'
       },
       pubKeyHash: 55,
       wif: 187,
@@ -143,7 +144,7 @@
       return {
         arkJsKey: arkJsNetworkKey,
         nethash: arkJsNetwork.nethash,
-        peerseed: 'http://' + arkJsNetwork.activePeer.ip + ':' + arkJsNetwork.activePeer.port,
+        peerseed: arkJsNetwork.activePeer.schema + '://' + arkJsNetwork.activePeer.ip + ':' + arkJsNetwork.activePeer.port,
         token: arkJsNetwork.token,
         symbol: arkJsNetwork.symbol,
         explorer: arkJsNetwork.explorer,
