@@ -14,7 +14,7 @@
    */
   function AccountService ($q, $http, networkService, storageService, ledgerService, gettextCatalog, gettext, utilityService, ARK_LAUNCH_DATE) {
     const self = this
-    const ark = require(require('path').resolve(__dirname, '../node_modules/arkjs'))
+    const ark = require(require('path').resolve(__dirname, '../node_modules/phantomjs'))
 
     self.defaultFees = {
       'send': 10000000,

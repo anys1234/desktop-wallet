@@ -10,7 +10,7 @@
    */
   function NetworkService($q, $http, $timeout, storageService, timeService, toastService) {
     const _path = require('path')
-    const ark = require(_path.resolve(__dirname, '../node_modules/arkjs'))
+    const ark = require(_path.resolve(__dirname, '../node_modules/phantomjs'))
     ark.networks.phantomTestnet = {
       messagePrefix: '\x18PHANTOM Testnet message:\n',
       name: 'phantomTestnet',
@@ -162,12 +162,12 @@
         return
       }
 
-      const arkjsNetwork = ark.networks[network.arkJsKey]
-      if (!arkjsNetwork) {
+      const phantomjsNetwork = ark.networks[network.arkJsKey]
+      if (!phantomjsNetwork) {
         return
       }
 
-      return arkjsNetwork.peers
+      return phantomjsNetwork.peers
     }
 
     function getNetwork() {
@@ -316,14 +316,14 @@
         // we don't have any peers, that means the app is probably started for the first time
         // (and therefore we do not have a peer list in our storage)
         // and getting a peer list failed (the peerseed server may be down)
-        // in this case we try to get a peer from the hardcoded list in the arkjs config
+        // in this case we try to get a peer from the hardcoded list in the phantomjs config
         peers = tryGetPeersFromArkJs()
         isStaticPeerList = true
       } else if (index === 0) {
         peers = peers.sort((a, b) => b.height - a.height || a.delay - b.delay).filter(p => p.ip !== '127.0.0.1')
       }
 
-      // check again or we may have an exception in the case when we couldn't get the static peer list from arkjs
+      // check again or we may have an exception in the case when we couldn't get the static peer list from phantomjs
       if (!isPeerListValid()) {
         return
       }

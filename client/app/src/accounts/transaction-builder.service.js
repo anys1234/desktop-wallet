@@ -5,7 +5,7 @@
     .service('transactionBuilderService', ['$timeout', '$q', 'networkService', 'accountService', 'ledgerService', 'gettextCatalog', 'utilityService', TransactionBuilderService])
 
   function TransactionBuilderService ($timeout, $q, networkService, accountService, ledgerService, gettextCatalog, utilityService) {
-    const ark = require(require('path').resolve(__dirname, '../node_modules/arkjs'))
+    const ark = require(require('path').resolve(__dirname, '../node_modules/phantomjs'))
 
     function createTransaction (deferred, config, fee, createTransactionFunc, setAdditionalTransactionPropsOnLedger) {
       let transaction

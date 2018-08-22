@@ -12,7 +12,7 @@
     const _path = require('path')
 
     const ipcRenderer = require('electron').ipcRenderer
-    const arkjs = require(_path.resolve(__dirname, '../node_modules/arkjs'))
+    const phantomjs = require(_path.resolve(__dirname, '../node_modules/phantomjs'))
     const bip39 = require(_path.resolve(__dirname, '../node_modules/bip39'))
     const async = require('async')
 
@@ -43,7 +43,7 @@
             path: localpath
           })
           if (result.address) {
-            result.address = arkjs.crypto.getAddress(result.publicKey)
+            result.address = phantomjs.crypto.getAddress(result.publicKey)
             accountIndex = accountIndex + 1
             const account = storageService.get(result.address) || result
             account.ledger = localpath
@@ -91,7 +91,7 @@
     }
 
     function recoverBip44Accounts (backupLedgerPassphrase, slip44) {
-      const hdnode = arkjs.HDNode.fromSeedHex(bip39.mnemonicToSeedHex(backupLedgerPassphrase))
+      const hdnode = phantomjs.HDNode.fromSeedHex(bip39.mnemonicToSeedHex(backupLedgerPassphrase))
 
       const accounts = []
       let accountIndex = 0
@@ -133,7 +133,7 @@
 
         ipcRenderer.send('ledger', {
           action: 'signTransaction',
-          data: arkjs.crypto.getBytes(transaction, true, true).toString('hex'),
+          data: phantomjs.crypto.getBytes(transaction, true, true).toString('hex'),
           path
         })
       })

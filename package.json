@@ -61,6 +61,7 @@
   "dependencies": {
     "@destinationstransfers/ntp": "^1.1.0",
     "about-window": "^1.11.0",
+    "angular": "^1.7.3",
     "async": "^2.5.0",
     "csv-parse": "^2.0.0",
     "electron-window-state": "^4.1.1",
