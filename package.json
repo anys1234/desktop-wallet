@@ -13,7 +13,7 @@
     "pack": "build --dir",
     "dist": "npm run dist:win && npm run dist:macos && npm run dist:linux && npm run dist:win32",
     "dist-quick": "npm run dist:win && npm run dist:macos && npm run dist:linux",
-    "dist:win": "electron-packager . phantom-wallet --platform=win --arch=x64",
+    "dist:win": "electron-packager . phantom-wallet --platform=win32 --arch=x64",
     "dist:macos": "electron-packager . phantom-wallet --platform=mas --arch=x64",
     "dist:linux": "electron-packager . phantom-wallet --platform=linux --arch=x64",
     "test": "karma start test/karma.conf.js --single-run",
