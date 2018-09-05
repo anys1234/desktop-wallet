@@ -1,6 +1,6 @@
 {
   "name": "PhantomClient",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "productName": "PhantomClient",
   "description": "Phantom Desktop Wallet",
   "main": "main.js",
@@ -80,6 +80,7 @@
     "devtron": "^1.4.0",
     "electron": "^1.8.7",
     "electron-builder": "^20.15.0",
+    "electron-installer-dmg": "^2.0.0",
     "electron-rebuild": "^1.7.2",
     "eslint": "^4.14.0",
     "eslint-config-standard": "^11.0.0-beta.0",
