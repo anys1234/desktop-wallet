@@ -15,7 +15,7 @@ describe('feedService', () => {
     it('fetches and parses the PHANTOM.io feed URL', () => {
       const stub = sinon.stub(feedService, 'fetchAndParse').resolves('OK')
       feedService.fetchBlogEntries()
-      expect(stub.firstCall.args[0]).to.eql('https://blog.phantom.io/feed')
+      expect(stub.firstCall.args[0]).to.eql('medium.com/feed/@PhantomDotOrg')
     })
   })
 })

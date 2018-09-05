@@ -23,7 +23,7 @@
        * Fetches and parses the RSS of PHANTOM.io
        */
       fetchBlogEntries () {
-        const rssUrl = 'hhttps://medium.com/feed/@PhantomDotOrg'
+        const rssUrl = 'https://medium.com/feed/@PhantomDotOrg'
         return this.fetchAndParse(rssUrl).then(parsed => parsed.feed.entries)
       }
     }
